@@ -1,6 +1,7 @@
 permalink: /:categories/:title.html
 
-auto: true
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+auto: false
 safe: true
 lsi: false
 pygments: true
