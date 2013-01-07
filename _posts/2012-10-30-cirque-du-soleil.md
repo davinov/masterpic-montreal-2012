@@ -1,10 +1,10 @@
 ---
 layout: entreprise
 category : Entreprises
-tagline: Fabrication de verres ophtalmiques
-tags : [essilor, entreprise]
+tagline: Le cirque sans les animaux
+tags : [cirque-du-soleil, entreprise]
 fiche: [ ["CA","4.2 Mrds€"], ["Implantation", "390 sites dans plus de 100 pays dont 27 au Canada"], ["Production", "400 millions de verres par an dont 8 millions au Canada"], ["Collaborateurs", "48700 (1050 au Canada)"] ]
-logo: essilor.gif
+logo: cirque-du-soleil.png
 ---
 {% include JB/setup %}
 
