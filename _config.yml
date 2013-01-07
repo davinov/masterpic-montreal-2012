@@ -1,12 +1,14 @@
-# This is the default format. 
-# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:categories/:title.html
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 safe: true
 lsi: false
 pygments: true
+
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+url: http://davinov.github.com/masterpic-montreal-2012/
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
@@ -57,7 +59,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://davinov.github.com/masterpic-montreal-2012
+  BASE_PATH : masterpic-montreal-2012
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
