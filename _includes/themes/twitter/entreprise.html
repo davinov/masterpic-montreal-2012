@@ -49,14 +49,14 @@
 		{% endunless %}
 
 		<h4>Date de la visite</h4>
-		class="date"><span>{{ page.date | date_to_long_string }}</span>
-	</div>
+		<span class="date">{{ page.date | date_to_long_string }}</span>
 
-	{% unless page.tags == empty %}
-	<h4>Mots-clés</h4>
-	<ul class="tag_box">
-		{% assign tags_list = page.tags %}
-		{% include JB/tags_list %}
-	</ul>
-	{% endunless %}
+		{% unless page.tags == empty %}
+		<h4>Mots-clés</h4>
+		<ul class="tag_box">
+			{% assign tags_list = page.tags %}
+			{% include JB/tags_list %}
+		</ul>
+		{% endunless %}
+	</div>
 </div>
