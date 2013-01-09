@@ -1,15 +1,9 @@
 permalink: /:categories/:title.html
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-auto: false
+auto: true
 safe: true
 lsi: false
-pygments: true
-
-source:      .
-destination: ./_site
-plugins:     ./_plugins
-url: http://davinov.github.com/masterpic-montreal-2012/
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
@@ -22,16 +16,6 @@ author :
   website : http://david.nowinsky.net
   github : davinov
   twitter : MasterPICX
-
-# The production_url is only used when full-domain names are needed
-# such as sitemap.txt 
-# Most places will/should use BASE_PATH to make the urls
-#
-# If you have set a CNAME (pages.github.com) set your custom domain here.
-# Else if you are pushing to username.github.com, replace with your username.
-# Finally if you are pushing to a GitHub project page, include the project name at the end.
-#
-production_url : http://davinov.github.com/masterpic-montreal-2012
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -60,7 +44,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://davinov.github.com/masterpic-montreal-2012
+  # BASE_PATH : http://davinov.github.com/masterpic-montreal-2012
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
