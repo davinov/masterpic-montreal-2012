@@ -35,6 +35,10 @@
 	</div>
 
 	<div class="span4">
+		{% unless page.logo == empty %}
+		<img id="entreprise-logo" src="{{ ASSET_PATH }}../entreprise-logos/{{ page.logo }}">
+		{% endunless %}
+		
 		{% unless page.fiche == empty %}
 		<h4> En bref... </h4>
 		<table class="table table-bordered">
@@ -46,7 +50,7 @@
 		</table>
 		{% endunless %}
 
-		<h4>Published</h4>
+		<h4>Date de la visite</h4>
 		<div class="date">
 			<span>{{ page.date | date_to_long_string }}</span>
 		</div>
