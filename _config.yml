@@ -1,21 +1,32 @@
-permalink: /:categories/:title
+# This is the default format. 
+# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
-safe: true
-lsi: false
+pygments: true
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Montréal - Master PIC 2012
-tagline: Rapport du voyage d'études à Montréal du master PIC
+title : Jekyll Bootstrap
+tagline: Site Tagline
 author :
-  name : David Nowinsky
-  email : david@nowinsky.net
-  website : http://david.nowinsky.net
-  github : davinov
-  twitter : MasterPICX
+  name : Name Lastname
+  email : blah@email.test
+  github : username
+  twitter : username
+  feedburner : feedname
+
+# The production_url is only used when full-domain names are needed
+# such as sitemap.txt 
+# Most places will/should use BASE_PATH to make the urls
+#
+# If you have set a CNAME (pages.github.com) set your custom domain here.
+# Else if you are pushing to username.github.com, replace with your username.
+# Finally if you are pushing to a GitHub project page, include the project name at the end.
+#
+production_url : http://username.github.com
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -44,7 +55,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://davinov.github.com/masterpic-montreal-2012
+  BASE_PATH : false
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
@@ -60,8 +71,8 @@ JB :
   # Some JB helpers refer to these paths; change them here if needed.
   #
   archive_path: /archive.html
-  categories_path : /articles-list.html
-  tags_path : /mots-cles.html
+  categories_path : /categories.html
+  tags_path : /tags.html
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.
@@ -70,7 +81,16 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : masterpic-montreal-2012
+      short_name : jekyllbootstrap
+    livefyre :
+      site_id : 123
+    intensedebate :
+      account : 123abc
+    facebook :
+      appid : 123
+      num_posts: 5
+      width: 580
+      colorscheme: light
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
@@ -79,16 +99,19 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-37461511-1'
-        
+        tracking_id : 'UA-123-12'
+    getclicky :
+      site_id : 
+    mixpanel :
+        token : '_MIXPANEL_TOKEN_'
+
   # Settings for sharing helper. 
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
   # Set 'provider' to the sharing provider you want to use.
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : addthis
-    id: 'ra-50ed897575e36155'
+    provider : false
     
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:
@@ -100,9 +123,4 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-  
-entreprises :
-  title1: "Présentation"
-  title2: "Notre visite"
-  title3: "Problématiques d'innovation"
   
