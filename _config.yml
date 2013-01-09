@@ -44,7 +44,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  # BASE_PATH : http://davinov.github.com/masterpic-montreal-2012
+  BASE_PATH : http://davinov.github.com/masterpic-montreal-2012
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
@@ -87,7 +87,8 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : tweet
+    provider : addthis
+    id: 'ra-50ed897575e36155'
     
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:
