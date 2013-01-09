@@ -9,13 +9,13 @@
     <div class="pagination">
       <ul>
       {% if page.previous %}
-        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
+        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Pr&eacute;c&eacute;dent</a></li>
       {% else %}
-        <li class="prev disabled"><a>&larr; Pr&Eacute;c&Eacute;dent</a></li>
+        <li class="prev disabled"><a>&larr; Pr&eacute;c&eacute;dent</a></li>
       {% endif %}
         <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Autres fiches</a></li>
       {% if page.next %}
-        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></li>
+        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Suivant &rarr;</a></li>
       {% else %}
         <li class="next disabled"><a>Suivant &rarr;</a>
       {% endif %}
@@ -26,11 +26,21 @@
   </div>
   
   <div class="span4">
+  	<h4>
+  		En bref...
+  	</h4>
+  	<table class="table table-bordered">
+  		{% for info in page.fiche %} 
+    	<tr><td>{{ info.title }}</td><td>{{ info.content }}</td></tr>
+    	{% endfor %}
+  	</table>
+  	{% endunless %} 
+  	
     <h4>Published</h4>
     <div class="date"><span>{{ page.date | date_to_long_string }}</span></div>
 
   {% unless page.tags == empty %}
-    <h4>Tags</h4>
+    <h4>Mots-cl&eacute;s</h4>
     <ul class="tag_box">
     {% assign tags_list = page.tags %}
     {% include JB/tags_list %}
