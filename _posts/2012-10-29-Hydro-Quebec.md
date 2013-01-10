@@ -2,8 +2,8 @@
 layout: entreprise
 tags : [hydro-quebec, energie, entreprise]
 category: Entreprises
-tagline: L'innovation et la propriété intellectuelle dans les télécoms
-logo: "ericsson.png"
+tagline: Energie et innovation collaborative
+logo: "hydroquebec.png"
 fiche:
   - { title: "Implantation monde", content: "Québec uniquement (société d’état)" }
   - { title: "Implantation Canada", content: "Montréal et dans toute la province du Québec" }
