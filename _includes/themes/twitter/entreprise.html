@@ -1,66 +1,61 @@
-<div class="page-header">
-	<h1>{{ page.title }} <small>{{ page.tagline }}</small></h1>
+<div class="row">
+    <div class="span8">
+        {{ content }}
+    </div>
+
+    <div class="span4">
+        {% unless page.logo == empty %}
+        <img id="entreprise-logo" src="{{ ASSET_PATH }}../entreprise-logos/{{ page.logo }}">
+        {% endunless %}
+
+        {% unless page.fiche == empty %}
+        <h4> En bref... </h4>
+        <table class="table table-bordered">
+            {% for info in page.fiche %}
+            <tr>
+                <td>{{ info.title }}</td><td>{{ info.content }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+        {% endunless %}
+
+        <h4>Date de la visite</h4>
+        <div class="date">
+            <span>{{ page.date | date_to_long_string }}</span>
+        </div>
+
+        {% unless page.tags == empty %}
+        <h4>Mots-clés</h4>
+        <ul class="tag_box">
+            {% assign tags_list = page.tags %}
+            {% include JB/tags_list %}
+        </ul>
+        {% endunless %}
+    </div>
 </div>
 
-<div class="row">
-	<div class="span8">
-		{{ content }}
-		<hr>
-		<div class="pagination">
-			<ul>
-				{% if page.previous %}
-				<li class="prev">
-					<a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Précédent</a>
-				</li>
-				{% else %}
-				<li class="prev disabled">
-					<a>&larr; Précédent</a>
-				</li>
-				{% endif %}
-				<li>
-					<a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Autres fiches</a>
-				</li>
-				{% if page.next %}
-				<li class="next">
-					<a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Suivant &rarr;</a>
-				</li>
-				{% else %}
-				<li class="next disabled">
-					<a>Suivant &rarr;</a>
-					{% endif %}
-			</ul>
-		</div>
-		<hr>
-		{% include JB/comments %}
-	</div>
-
-	<div class="span4">
-		{% unless page.logo == empty %}
-		<img id="entreprise-logo" src="{{ ASSET_PATH }}../entreprise-logos/{{ page.logo }}">
-		{% endunless %}
-		
-		{% unless page.fiche == empty %}
-		<h4> En bref... </h4>
-		<table class="table table-bordered">
-			{% for info in page.fiche %}
-			<tr>
-				<td>{{ info.title }}</td><td>{{ info.content }}</td>
-			</tr>
-			{% endfor %}
-		</table>
-		{% endunless %}
-
-		<h4>Date de la visite</h4>
-		<div class="date">
-			<span>{{ page.date | date_to_long_string }}</span>
-		</div>
-
-		{% unless page.tags == empty %}
-		<h4>Mots-clés</h4>
-		<ul class="tag_box">
-			{% assign tags_list = page.tags %}
-			{% include JB/tags_list %}
-		</ul>
-		{% endunless %}
-	</div>
+<hr>
+<div class="pagination">
+    <ul>
+        {% if page.previous %}
+        <li class="prev">
+            <a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Précédent</a>
+        </li>
+        {% else %}
+        <li class="prev disabled">
+            <a>&larr; Précédent</a>
+        </li>
+        {% endif %}
+        <li>
+            <a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Autres fiches</a>
+        </li>
+        {% if page.next %}
+        <li class="next">
+            <a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Suivant &rarr;</a>
+        </li>
+        {% else %}
+        <li class="next disabled">
+            <a>Suivant &rarr;</a>
+            {% endif %}
+    </ul>
 </div>

@@ -1,7 +1,7 @@
 ---
 layout: post
 tags : [innovation, performance]
-category: Articles		
+category: Articles
 ---
 {% include JB/setup %}
 
@@ -109,8 +109,8 @@ L’innovation est la clé de la croissance d’une entreprise, même si sa mise
 
 ####Bibliographie
 
-> Burgelman, Robert, Philip Meza, and Evan Berrett. "Intel Centrino in 2007: A New "Platform" Strategy for Growth." Standford Graduate School of Business, 2007.
-> Charue-Duboc, Florence. "Les entreprises peuvent-elles apprendre ?" Analyses de la SEDEIS, Novembre 1991: 31-37.
-> Kim, W. Chan, and Renée Mauborgne. "Blue Ocean Strategy." Harvard Business School Press, 2005.
-> Shapiro, Carl, and Hal R. Varian. "The Art of Standards Wars." California Management Review, vol.3, 1999.
-> Teece, David J. "Profiting from technological innovation : implications for integration, collaboration, licensing and public policy." Research Policy, December 1986: 285-305.
+ - Burgelman, Robert, Philip Meza, and Evan Berrett. "Intel Centrino in 2007: A New "Platform" Strategy for Growth." Standford Graduate School of Business, 2007.
+ - Charue-Duboc, Florence. "Les entreprises peuvent-elles apprendre ?" Analyses de la SEDEIS, Novembre 1991: 31-37.
+ - Kim, W. Chan, and Renée Mauborgne. "Blue Ocean Strategy." Harvard Business School Press, 2005.
+ - Shapiro, Carl, and Hal R. Varian. "The Art of Standards Wars." California Management Review, vol.3, 1999.
+ - Teece, David J. "Profiting from technological innovation : implications for integration, collaboration, licensing and public policy." Research Policy, December 1986: 285-305.
