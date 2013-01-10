@@ -102,8 +102,8 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : addthis
-    id: 'ra-50ed897575e36155'
+    provider : sharethis
+    id: '138c72fb-a434-4927-b8d9-4aa74caabb8c'
     
   # Settings for all other include helpers can be defined by creating 
   # a hash with key named for the given helper. ex:

@@ -1,6 +1,7 @@
 {% if site.safe and site.JB.sharing.provider and page.JB.sharing != false %}
 
 {% case site.JB.sharing.provider %}
+
 {% when "addthis" %}
   <!-- AddThis Button BEGIN -->
 	<div class="addthis_toolbox addthis_default_style ">
@@ -12,6 +13,11 @@
 	<script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script>
 	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid={{ site.JB.sharing.id }}"></script>
 	<!-- AddThis Button END -->
+{% when "sharethis" %}
+	<span class='st_fbrec_hcount' displayText='Facebook Recommend'></span>
+	<span class='st_plusone_hcount' displayText='Google +1'></span>
+	<span class='st_twitter_hcount' displayText='Tweet'></span>
+	<span class='st_linkedin_hcount' displayText='LinkedIn'></span>
 {% endcase %}
 
 {% endif %}
