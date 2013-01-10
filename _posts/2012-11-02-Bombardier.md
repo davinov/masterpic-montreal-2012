@@ -1,0 +1,48 @@
+---
+layout: entreprise
+tags : [aeronautique, industrie, bombardier, entreprise]
+category: Entreprises
+tagline: Un avionneur innovant
+logo: "bombardier.png"
+fiche:
+  - { title: "CA", content: "17,712 Mrds$ (2011)" }
+  - { title: "Résultat net", content: "769 M$ (2011)" }
+  - { title: "Collaborateurs", content: "65 500 dont 18 500 pour Bombardier Aerospace au Canada" }
+---
+{% include JB/setup %}
+
+###{{ site.entreprises.title1 }}
+
+Bombardier Inc. est une multinationale canadienne spécialisée dans les transports. Elle fut créée en 1941 à Valcourt par Joseph-Armand Bombardier sous le nom de « L’auto-Neige Bombardier Limitée ». Quoique les débuts de l’entreprise se soient construits sur les autoneiges et ses dérivés, Bombardier a cédé son secteur récréatif fin 2003 pour se recentrer sur les transports ferroviaires et aéronautiques.
+
+Sa filiale Bombardier Transport a pour principaux produits des trains à grande vitesse, métros et tramways. Ils comptent se distinguer des concurrents par une réduction de la consommation d’énergie qui ne se ferait pas au profit de la vitesse. Sa contribution au chiffre d’affaires est de 53%. Bombardier Aéronautique, qui nous a accueillis dans son usine d’assemblage de jets Challenger de Montréal,  se charge de la conception et production d’avions régionaux, d’avions d’affaires, et de bombardiers d’eau (dont la marque Canadair est devenue un terme générique). Sa contribution au chiffre d’affaires est de 47%.
+
+####Historique 
+
+Le groupe Bombardier est né sous l’impulsion de Joseph Armand Bombardier. Ce dernier voulait que le déplacement en hiver soit aussi simple que pendant les autres saisons. Son projet était d’équiper les zones rurales d’équivalents d’automobiles individuelles. Il développe dans son garage le brevet du barbotin-chenille (un engrenage recouvert de caoutchouc accompagné de chenilles sur les roues arrières du véhicule) afin d’équiper les véhicules B7, conçus pour 7 passagers se distinguant des modèles concurrents dotés de chenilles en métal. La société « L’auto-Neige Bombardier Limitée » naît de ce succès en 1941 et se diversifie rapidement dans des versions militaires pendant la guerre. Dès lors, la diversification devient une clé de survie et croissance pour l’entreprise. Ainsi, quand en 1948, le gouvernement du Québec annonce la prise en charge du déneigement des routes par les pouvoirs publics, Bombardier réoriente rapidement son activité et commence à produire de nouvelles autoneiges (spécialisées dans le travail forestier, le damage des pistes de ski,….).
+
+La seconde clé du succès de Bombardier fut l’innovation portée par la culture familiale et le souci de la qualité. En parallèle, le développement s’est effectué par es acquisitions diversifiées. Par exemple, en 1970, Bombardier achète son fournisseur autrichien de moteurs de motoneiges, Rotax, également producteur de wagons de tramways. Cet achat lui ouvre la porte du marché ferroviaire et en 1974, le groupe fournit les voitures du métro de Montréal. En 2001, l’achat d’ADtranz à Daimler-Chrysler permet à Bombardier de devenir le premier constructeur mondial de matériel ferroviaire. Cette politique étend le positionnement géographique du groupe sur de nouveaux marché (co-entreprise Sifang Locomotive en Chine depuis 1998). Bombardier pénètre le marché de l’aéronautique en rachetant Canadair en 1986.  Le groupe développe pour le marché canadien des avions de ligne à réaction de 50 places adaptés au transport régional. Pour soutenir ses activités, le groupe se dote d’activités de services financiers (financement d’achat, prêt-bail, gérance de flottes, etc), devenues en 1973 Bombardier Capital.
+
+Les attentats du 11 septembre 2001 plonge le secteur aéronautique dans une crise importante. Bombardier, contraint par des problèmes financiers, doit se réorganiser. Le groupe abandonne successivement leur activité d’origine de véhicules de loisirs en 2003 et Bombardier Capital en 2005. En 2006, les activités aéronautiques de Bombardier sont redevenues profitables et les activités ferroviaires restent un atout majeur de la croissance du groupe, notamment par la conquête de nouveaux marchés (Chine, Europe, Asie du Sud-Est,….).
+
+###{{ site.entreprises.title2 }}
+
+Nous avons d’abord visité l’usine d’assemblage de Challenger. Ce fut l’occasion de voir les procédés d’assemblage et les différentes méthodes de contrôle et d’amélioration Kaizen. 
+
+Par la suite, nous avons eu une présentation sur l’importance de la gestion de connaissance dans la production aéronautique. Notons déjà l’importance très précoce de l’acquisition et pérennisation dans cette branche d’activité construite par acquisitions d’avionneurs de spécialités diverses et d’expertises pas immédiatement complémentaires (Canadair, Learjet…). L’usine visitée est exemplaire car l’enjeu d’un site d’assemblage est l’intégration de composants  créés dans des sites géographiquement distincts et par des experts différents.  Leur processus actuel de gestion de connaissances nait de différentes tentatives d’intensité croissante  (plateforme géographique commune, investissement dans des outils collaboratifs, atelier de retour d’expérience, conférences internes). Ces expériences leur a permis d’affiner leurs démarche et outils avec plus de pertinence en structurant la collaboration participative.
+
+Ce souci de structuration naît de l’hypothèse qu’une coordination structurée des expertises lors d’un projet diminuerait les délais de conception lors de projet ou réduirait le temps des employés perdu à chercher des informations ou refaire des acquis. L’idée est aussi de gagner en qualité de produit en faisant intervenir des expertises aval dans des phases amont où la marge de manœuvre et de correction est plus grande. La condition permissive reste la participation des employés.
+
+En réalité, tout « Knowledge worker » est intéressé par la collaboration, mais ne sait pas vraiment comment et dans quelle mesure il peut et doit transmettre des informations ou se tenir disponible pour communiquer. Ceci soulève plusieurs questions. Comment motiver les salariés, en particulier les expertises rares, à communiquer ? Des facteurs de réputation, crédit, satisfaction, temps gagné et bienfait pour le groupe sont à prendre en compte. Comment repérer et identifier les expertises ? Comment les formaliser ?   Bombardier a lancé 27 communautés de pratiques sur des domaines de connaissances essentielles à son activité. Seulement, un champ de connaissances (« thermodynamics ») est toujours large, la distinction de sous-spécialités et de degrés d’expertise est donc précieuse pour garantir un repérage efficient des experts. L’identification des expertises doit aussi prendre en compte les connaissances internes à pérenniser et à faire circuler, mais aussi celles manquantes et souhaitées à acquérir.   
+
+La conception de ce processus et la volonté d’adhésion des salariés reposent en partie sur des indicateurs de mesure des résultats. Les indicateurs permettent de justifier le temps dédié à la gestion de connaissance aux salariés et à la direction (les contributeurs ne sont pas toujours ceux qui en voient les bienfaits). Ils permettent aussi de réajuster le processus en fonction des retours. Ce qui est essentiel dans leur volonté de mise en place et d’élargissement progressif du Knowledge Management chez Bombardier.
+
+###{{ site.entreprises.title3 }}
+
+L’innovation était au cœur de notre visite et paraissait un défi permanent tant sur le produit (avions « innovant d’un point de vue technique et d’usage client ») que dans les processus de production (sourcing complexe des différentes pièces de l’avion). 
+
+Bombardier Aviation conçoit les avions de demain. Les avions Global 7000 et 8000 sont ainsi attendus pour 2016 et 2017 et misent notamment sur plus de matériaux composites. De nombreuses technologies viennent améliorer leur offre de transport comme le monorail INNOVIA 300  ou bien la plateforme de locomotives TRAXX où le moteur est remplacé par quatre plus petits moteurs permettant une réduction de la consommation énergétique. Les innovations incrémentales apportées par la R&D accompagnent un mouvement plus large de renouveau de la mobilité, où Bombardier veut anticiper les ruptures.
+
+Au-delà de la technologie, Bombardier doit comprendre les phénomènes d’urbanisation rapide de nombreux pays émergents, de congestion et de pollution urbaines  et doit y lire des opportunités. S’appuyant sur son expérience en matière de mobilité, Bombardier s’est engagé dans un vaste programme de prospectives. En effet, l’enjeu pour une grande firme industrielle est de capter, comprendre, voir provoquer les grandes tendances sociétales de demain transformant les marchés. Dans le but de saisir les opportunités de ces évolutions, Bombardier a mis en place plusieurs programmes d’innovation et de conception partagée, on parle d’open innovation (Chesbrough, 2006). Ceci s’est traduit par les concours mondiaux YouRail DesignContest et Bombardier YouCity, à travers lesquels des milliers de personnes ont imaginé les transports de demain. L’espace de conception de Bombardier s’est ainsi ouvert à une variété supérieure de concepteurs (utilisateurs, designers, critiques, étudiants…) et donc de perspectives. Le concours s’est soldé par des propositions primées et récompensées financièrement. De même, des workshops, comme le « camp de l’innovation » ont débouché sur des idées concrètes utilisables par la ville de Belo Horizonte au Brésil. 
+
+L’innovation chez Bombardier se décline donc à la fois dans les technologies, la réflexion stratégique et le management participatif, que ce soit par la gestion interne des connaissances ou l’open-innovation.
