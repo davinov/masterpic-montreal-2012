@@ -30,10 +30,7 @@
         <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
         <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
         -->
-        {% if site.safe and site.JB.sharing.provider and page.JB.sharing != false and site.JB.sharing.provider=="sharethis" %}
-            <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-            <script type="text/javascript">stLight.options({publisher: "{{ site.JB.sharing.id }}"});</script>
-        {% endif %}
+        
     </head>
 
     <body>
@@ -79,6 +76,9 @@
         <!-- Placed at the end of the document so the pages load faster -->
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
         <script src="http://twitter.github.com/bootstrap/assets/js/bootstrap.min.js"></script>
-
+        
+            <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+            <script type="text/javascript">stLight.options({publisher: "{{ site.JB.sharing.id }}"});</script>
+        {% if site.safe and site.JB.sharing.provider and page.JB.sharing != false and site.JB.sharing.provider == "sharethis" %}blabla{% endif %}
     </body>
 </html>
