@@ -77,8 +77,9 @@
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
         <script src="http://twitter.github.com/bootstrap/assets/js/bootstrap.min.js"></script>
         
+        {% if site.safe and site.JB.sharing.provider and page.JB.sharing != false and site.JB.sharing.provider == "sharethis" %}
             <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
             <script type="text/javascript">stLight.options({publisher: "{{ site.JB.sharing.id }}"});</script>
-        {% if site.safe and site.JB.sharing.provider and page.JB.sharing != false and site.JB.sharing.provider == "sharethis" %}blabla{% endif %}
+        {% endif %}
     </body>
 </html>
