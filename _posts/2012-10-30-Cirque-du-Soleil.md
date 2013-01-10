@@ -34,4 +34,5 @@ Grâce à cette visite, nous avons donc pu découvrir cette mécanique parfaitem
 Le Cirque Du Soleil est donc avant tout une belle expérience humaine et créative, bâtie sur les émotions et avec une sensibilité toute particulière, un cirque dont la mission principale est « d’invoquer, provoquer, évoquer » pour le plus grand plaisir du public.
 
 > « Faites preuve d’audace et d’imagination. Encouragez l’innovation et le dépassement. Rêvez, explorez les solutions les plus inattendues et bousculez les conventions »
+> 
 > *Madame Marie-Josée Guilbault, Vice-présidente, Personne et Organisation au Cirque du Soleil*

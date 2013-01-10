@@ -20,12 +20,14 @@ Hydro Québec possède également le plus vaste réseau de distribution d’éle
 ###{{ site.entreprises.title2 }}
 La visite s’est décomposée en deux parties : 
 
-1.	Présentation des problématiques d’innovation au sein d’Hydro-Québec
+1.	####Présentation des problématiques d’innovation au sein d’Hydro-Québec
+
 	La société Hydro-Québec investit plus de 100 Millions de dollars Canadiens dans l’innovation et compte actuellement plus de 100 projets en cours. Après une présentation générale de l’entreprise, deux experts de la société, Hubert Mercure, chef de la valorisation de la technologie et Raouf Naggar chef développement stratégique d’Hydro-Québec, sont venus nous exposer certaines problématiques d’innovation auxquelles est confronté Hydro-Québec.
 	 - L’évolution du modèle d’innovation vers l’innovation ouverte : cette dernière montre les différentes étapes ainsi que les principaux obstacles auxquels la société a été confrontée avec la mise en place de partenariats et de collaborations internationales. Ceux-ci permettent à l’entreprise de réaliser des gains financiers ainsi d’optimiser sur la durée des projets et de l’obtention de nouvelles idées qui alimenteront l’entreprise.
 	 - Le management des idées d’innovation : l’entreprise cherche à considérer les idées comme des actifs et à investir dans leur développement. Mr Naggar nous a donc présenté les différents moyens mis en œuvre par la société. Ces moyens ont autant pour but d’obtenir un maximum d’idées d’innovation du côté des salariés que de bien conserver ces idées afin qu’elles puissent être réutilisées par la suite. Tout ceci passe par la création d’un réservoir d’idées pour les idées non utilisées, ainsi que la création de défis mobilisateurs pour les salariés.
 
-2.	Visite des installations de l’institut de recherche d’Hydro-Québec (IREQ)
+2.	####Visite des installations de l’institut de recherche d’Hydro-Québec (IREQ)
+
 	Nous avons eu l’opportunité de nous rendre sur deux installations du site : 
 	 - Le laboratoire de robotique : dans lequel nous avons pu observer le robot mis au point par Hydro-Québec afin d’intervenir sur la ligne à haute tension permettant ainsi d’éviter la prise de risque d’un agent. Ce robot est capable d’inspecter les lignes à une vitesse de 10km/h et peut faire de petites réparations en local. De plus, les robots sont aujourd’hui capables de franchir les pilonnes grâce à un système de bras et de corps pouvant se séparer. Le cockpit de pilotage de ce robot nous a également été révélé, ce dernier ressemblant à une station de pilotage pour jeux vidéo.  L’ensemble de la conception et du montage du robot est effectué au sein des laboratoires d’Hydro-Québec : l’entreprise démontre ainsi son savoir-faire dans des domaines très différents de son cœur de métier.
 	 - Le centre de test à très haute tension : il s’agit d’un endroit unique en Amérique qui permet de tester de multiples équipements à très haute tension. Ce bâtiment en forme de grand cube composé d’une paroi en cuivre qui crée ainsi une cage de faraday. Il permet de vérifier la qualité des équipements d’Hydro-Québec. Ce bâtiment est aussi loué à l’entreprise voisine ABB afin qu’elle puisse tester ses équipements électriques fabriqués sur place, avant de les envoyer aux clients.
