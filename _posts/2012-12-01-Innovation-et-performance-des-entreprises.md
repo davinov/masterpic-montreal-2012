@@ -2,6 +2,7 @@
 layout: post
 tags : [innovation, performance]
 category: Articles
+title: "Innovation et performance des entreprises"
 ---
 {% include JB/setup %}
 

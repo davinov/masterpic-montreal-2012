@@ -6,7 +6,6 @@ title: "L'implication du consommateur dans le processus de création : les méth
 ---
 {% include JB/setup %}
 
-#*Les méthodes d'exploration des besoins et de la valeur*
 D’une économie qui concevait ses produits sans interaction avec les clients puis les leur proposait voir les leur imposait à une économie participative où le client est un acteur, voir l’acteur central du processus de création, la place du consommateur dans le processus de création a beaucoup varié. 
 
 Nous allons nous intéresser dans cet article à l’implication du consommateur dans le processus de création ainsi qu’aux méthodes d’exploration des besoins et de la valeur.
