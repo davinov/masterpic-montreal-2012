@@ -1,7 +1,7 @@
 ---
 layout: entreprise
 tags : [formation]
-category: Formations
+category: Entreprises
 tagline: Au coeur du futur "quartier de l'innovation"
 logo: "ets.png"
 fiche:
