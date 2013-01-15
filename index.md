@@ -24,9 +24,9 @@ layout: default
 					<td><a href="http://davinov.github.com/masterpic-montreal-2012/Entreprises/Cirque-du-Soleil/" target="_blank"><img src="https://lh4.googleusercontent.com/-WvaN4S2iZmA/UPWjC70jUSI/AAAAAAAAAww/L928RsATS7M/s144/imgres.jpg" height="50px" ></a></td>
 				</tr>
 				<tr>
-					<td><a href="http://davinov.github.com/masterpic-montreal-2012/Entreprises/Ericsson/" target="_blank"><img src="https://lh6.googleusercontent.com/-9x78rL28jPQ/UPWjOSSP5JI/AAAAAAAAAxA/de_ksUwgKT4/s144/imgres.jpg" height="50px" ></a></td>
 					<td><a href="http://davinov.github.com/masterpic-montreal-2012/Entreprises/Hydro-Quebec/" target="_blank"><img src="https://lh5.googleusercontent.com/-Oq_wtsFOZWY/UPWjJP4LX7I/AAAAAAAAAw4/6bOoVKVMJQY/s144/imgres.jpg" height="50px" ></a></td>
 					<td><a href="http://davinov.github.com/masterpic-montreal-2012/Entreprises/Ecole-de-Technologie-Superieure/" target="_blank"><img src="https://lh5.googleusercontent.com/-4Hl6dubDXyg/UPWjUtH9BRI/AAAAAAAAAxI/x2QH0zggxMU/s144/imgres.jpg" height="50px" ></a></td>
+					<td><a href="http://davinov.github.com/masterpic-montreal-2012/Entreprises/Ericsson/" target="_blank"><img src="https://lh6.googleusercontent.com/-9x78rL28jPQ/UPWjOSSP5JI/AAAAAAAAAxA/de_ksUwgKT4/s144/imgres.jpg" height="50px" ></a></td>
 					<td><a href="http://davinov.github.com/masterpic-montreal-2012/Entreprises/Essilor/" target="_blank"><img src="https://lh4.googleusercontent.com/-nO8hUATiS04/UPWgh5qfMpI/AAAAAAAAAvs/NOwMzy1RtvE/s144/logo_essilor.jpg" height="50px" ></a></td>
 				</tr>
 				</table>
