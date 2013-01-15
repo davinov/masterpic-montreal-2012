@@ -4,14 +4,21 @@ layout: default
 {% include JB/setup %}
 
 <div class="hero-unit" >
-	<span class='st_facebook_vcount' displayText='Facebook'></span>
-	<span class='st_googleplus_vcount' displayText='Google +'></span>
-	<span class='st_twitter_vcount' displayText='Tweet'></span>
-	<span class='st_linkedin_vcount' displayText='LinkedIn'></span>
-    	<h1>L'innovation au Québec ?</h1>
-	<p>Bienvenue sur le site du rapport du voyage d'études à Montréal du Master PIC, qui a eu lieu du 28 octobre au 3 novembre 2012. Vous trouverez ici la liste des comptes rendus des visites d'entreprises ainsi que des articles de réflexion sur des sujets d'innovation</p>
-    <!--<span><a class="btn btn-primary btn-large" href="articles-list.html">Commencer la lecture &raquo;</a></span>-->
-    
+	<table border="0">
+		<td>
+			<span class='st_facebook_vcount' displayText='Facebook'></span>
+			<span class='st_googleplus_vcount' displayText='Google +'></span>
+			<span class='st_twitter_vcount' displayText='Tweet'></span>
+			<span class='st_linkedin_vcount' displayText='LinkedIn'></span>
+		</td>
+		<td>
+			<h1>L'innovation au Québec ?</h1>
+			<p>Bienvenue sur le site du rapport du voyage d'études à Montréal du Master PIC, qui a eu lieu du 28 octobre au 3 novembre 2012. Vous trouverez ici la liste des comptes rendus des visites d'entreprises ainsi que des articles de réflexion sur des sujets d'innovation</p>
+   			 <!--<span><a class="btn btn-primary btn-large" href="articles-list.html">Commencer la lecture &raquo;</a></span>-->
+		</td>	
+	</table>
+	
+    	
 </div>
 
 <div class="row">
@@ -30,7 +37,7 @@ layout: default
 					<td><a href="http://davinov.github.com/masterpic-montreal-2012/Entreprises/GE-Aviation/" target="_blank"><img src="https://lh6.googleusercontent.com/-pHMO-iuy0hE/UPWi0UTLNMI/AAAAAAAAAwg/IYYSgugcE0A/s144/imgres.jpg" height="50px" ></a></td>	
 					<td><a href="http://davinov.github.com/masterpic-montreal-2012/Entreprises/Essilor/" target="_blank"><img src="https://lh4.googleusercontent.com/-nO8hUATiS04/UPWgh5qfMpI/AAAAAAAAAvs/NOwMzy1RtvE/s144/logo_essilor.jpg" height="50px" ></a></td>
 				</tr>
-				</table>
+			</table>
 			<p>Cliquez sur le logo d'une entreprise. Vous découvrirez le compte rendu de la visite que nous y avons fait.</p>
 			<p><a class="btn" href="articles-list.html#Entreprises-ref">Liste des entreprises...</a></p>
     </div>
