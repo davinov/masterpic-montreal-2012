@@ -16,7 +16,7 @@ layout: default
 <div class="row">
 	    <div class="span6">
 		<h2>Visites d'entreprises</h2>
-			<table border="1">
+			<table border="0">
 				<tr> 
 					<td><a href="http://davinov.github.com/masterpic-montreal-2012/Entreprises/Bombardier/" target="_blank"><img src="https://lh5.googleusercontent.com/-8XdWod66hCo/UPWiskbtbfI/AAAAAAAAAwY/GYyxRV3Tf0Q/s144/imgres.jpg" height="50px" ></a></td>
 					<td><a href="http://davinov.github.com/masterpic-montreal-2012/Entreprises/GE-Aviation/" target="_blank"><img src="https://lh6.googleusercontent.com/-pHMO-iuy0hE/UPWi0UTLNMI/AAAAAAAAAwg/IYYSgugcE0A/s144/imgres.jpg" height="50px" ></a></td>
@@ -30,8 +30,8 @@ layout: default
 					<td><a href="http://davinov.github.com/masterpic-montreal-2012/Entreprises/Essilor/" target="_blank"><img src="https://lh4.googleusercontent.com/-nO8hUATiS04/UPWgh5qfMpI/AAAAAAAAAvs/NOwMzy1RtvE/s144/logo_essilor.jpg" height="50px" ></a></td>
 				</tr>
 				</table>
-			<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-			<p><a class="btn" href="articles-list.html#Entreprises-ref">Lire &raquo;</a></p>
+			<p>Cliquez sur le logo d'une entreprise. Vous découvrirez le compte rendu de la visite que nous y avons fait.</p>
+			<p><a class="btn" href="articles-list.html#Entreprises-ref">Liste des entreprises...</a></p>
     </div>
     <div class="span6">
 	    <h2>Articles de réflexion sur l'innovation</h2>
