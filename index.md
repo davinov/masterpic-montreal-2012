@@ -4,13 +4,14 @@ layout: default
 {% include JB/setup %}
 
 <div class="hero-unit" >
-    <h1>L'innovation au Québec ?</h1>
-	<p>Bienvenue sur le site du rapport du voyage d'études à Montréal du Master PIC, qui a eu lieu du 28 octobre au 3 novembre 2012. Vous trouverez ici la liste des comptes rendus des visites d'entreprises ainsi que des articles de réflexion sur des sujets d'innovation</p>
-    <span><a class="btn btn-primary btn-large" href="articles-list.html">Commencer la lecture &raquo;</a></span>
-    <span class='st_facebook_vcount' displayText='Facebook'></span>
+<span class='st_facebook_vcount' displayText='Facebook'></span>
 	<span class='st_googleplus_vcount' displayText='Google +'></span>
 	<span class='st_twitter_vcount' displayText='Tweet'></span>
 	<span class='st_linkedin_vcount' displayText='LinkedIn'></span>
+    <h1>L'innovation au Québec ?</h1>
+	<p>Bienvenue sur le site du rapport du voyage d'études à Montréal du Master PIC, qui a eu lieu du 28 octobre au 3 novembre 2012. Vous trouverez ici la liste des comptes rendus des visites d'entreprises ainsi que des articles de réflexion sur des sujets d'innovation</p>
+    //<span><a class="btn btn-primary btn-large" href="articles-list.html">Commencer la lecture &raquo;</a></span>
+    
 </div>
 
 <div class="row">
@@ -35,7 +36,7 @@ layout: default
     </div>
     <div class="span6">
 	    <h2>Articles de réflexion sur l'innovation</h2>
-	    <p>"Open innovation", "implication des consammateurs dans le processus créatif", "innovation et performance des entreprises", autants de problématiques qui se posent aux entreprises aujourd'hui. Nous [les étudiants du Master PIC] en avons exploré quelques unes. </p>
+	    <p>"Open innovation", "implication des consammateurs dans le processus créatif", "innovation et performance des entreprises", autants de problématiques d'innovation qui se posent aux entreprises aujourd'hui. Nous [les étudiants du Master PIC] avons exploré quelques unes de ces problématiques. </p>
 	    <p><a class="btn" href="articles-list.html#Articles-ref">Lire &raquo;</a></p>
 	</div>	
 </div>
