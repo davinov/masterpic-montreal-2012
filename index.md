@@ -18,16 +18,16 @@ layout: default
 		<h2>Visites d'entreprises</h2>
 			<table border="1">
 				<tr>
-					<td>row 1, cell 1</td>
-					<td>row 1, cell 2</td>
-					<td>row 1, cell 2</td>
-					<td>row 1, cell 2</td>
+					<td><a href="" target="_blank"><img src="https://lh5.googleusercontent.com/-8XdWod66hCo/UPWiskbtbfI/AAAAAAAAAwY/GYyxRV3Tf0Q/s144/imgres.jpg" height="50px" ></a></td>
+					<td><a href="" target="_blank"><img src="https://lh6.googleusercontent.com/-pHMO-iuy0hE/UPWi0UTLNMI/AAAAAAAAAwg/IYYSgugcE0A/s144/imgres.jpg" height="50px" ></a></td>
+					<td><a href="" target="_blank"><img src="https://lh4.googleusercontent.com/-8RHasVJQy7c/UPWi9MQmWFI/AAAAAAAAAwo/qXsK8WmU_JY/s144/imgres.jpg" height="50px" ></a></td>
+					<td><a href="" target="_blank"><img src="https://lh4.googleusercontent.com/-WvaN4S2iZmA/UPWjC70jUSI/AAAAAAAAAww/L928RsATS7M/s144/imgres.jpg" height="50px" ></a></td>
 				</tr>
 				<tr>
-					<td>row 2, cell 1</td>
-					<td>row 2, cell 2</td>
-					<td>row 1, cell 2</td>
-					<td>row 1, cell 2</td>
+					<td><a href="" target="_blank"><img src="https://lh6.googleusercontent.com/-9x78rL28jPQ/UPWjOSSP5JI/AAAAAAAAAxA/de_ksUwgKT4/s144/imgres.jpg" height="50px" ></a></td>
+					<td><a href="" target="_blank"><img src="https://lh5.googleusercontent.com/-Oq_wtsFOZWY/UPWjJP4LX7I/AAAAAAAAAw4/6bOoVKVMJQY/s144/imgres.jpg" height="50px" ></a></td>
+					<td><a href="" target="_blank"><img src="https://lh5.googleusercontent.com/-4Hl6dubDXyg/UPWjUtH9BRI/AAAAAAAAAxI/x2QH0zggxMU/s144/imgres.jpg" height="50px" ></a></td>
+					<td><a href="" target="_blank"><img src="https://lh4.googleusercontent.com/-nO8hUATiS04/UPWgh5qfMpI/AAAAAAAAAvs/NOwMzy1RtvE/s144/logo_essilor.jpg" height="50px" ></a></td>
 				</tr>
 				</table>
 			<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
