@@ -17,7 +17,7 @@ layout: default
 	    <div class="span6">
 		<h2>Visites d'entreprises</h2>
 			<table border="1">
-				<tr>
+				<tr> 
 					<td><a href="" target="_blank"><img src="https://lh5.googleusercontent.com/-8XdWod66hCo/UPWiskbtbfI/AAAAAAAAAwY/GYyxRV3Tf0Q/s144/imgres.jpg" height="50px" ></a></td>
 					<td><a href="" target="_blank"><img src="https://lh6.googleusercontent.com/-pHMO-iuy0hE/UPWi0UTLNMI/AAAAAAAAAwg/IYYSgugcE0A/s144/imgres.jpg" height="50px" ></a></td>
 					<td><a href="" target="_blank"><img src="https://lh4.googleusercontent.com/-8RHasVJQy7c/UPWi9MQmWFI/AAAAAAAAAwo/qXsK8WmU_JY/s144/imgres.jpg" height="50px" ></a></td>
