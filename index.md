@@ -3,7 +3,7 @@ layout: default
 ---
 {% include JB/setup %}
 
-<div class="hero-unit" background-image="https://lh3.googleusercontent.com/-EkZBvO7NKug/UPWrWjw_QZI/AAAAAAAAAxY/ChtKPjgIpDI/s144/mont_royal_72.jpg">
+<div class="hero-unit" >
     <h1>L'innovation au Québec ?</h1>
 	<p>Bienvenue sur le site du rapport du voyage d'études à Montréal du Master PIC, qui a eu lieu du 28 octobre au 3 novembre 2012. Vous trouverez ici la liste des comptes rendus des visites d'entreprises ainsi que des articles de réflexion sur des sujets d'innovation</p>
     <p><a class="btn btn-primary btn-large" href="articles-list.html">Commencer la lecture &raquo;</a></p>
