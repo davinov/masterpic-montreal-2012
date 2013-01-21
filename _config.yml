@@ -120,3 +120,16 @@ entreprises :
   title1: "Présentation"
   title2: "Notre visite"
   title3: "Problématiques d'innovation"
+  
+profiles :
+  - name: "Fengting Hui"
+    linkedin: "fr.linkedin.com/in/fengting"
+  - name: "Qingliang Wu"
+  - name: "David Nowinsky"
+    linkedin: "www.linkedin.com/pub/david-nowinsky/34/7/39"
+    googleplus: "109497285012093985998"
+    facebook: "david.nowinsky"
+    twitter: "davinov"
+    slideshare: "davidnowinsky"
+    
+    
