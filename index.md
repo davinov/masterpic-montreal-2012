@@ -37,8 +37,8 @@ layout: default
 			<p><a class="btn" href="articles-list.html#Entreprises-ref">Liste des entreprises &raquo;</a></p>
     </div>
     <div class="span6">
-	    <h2>Articles de réflexion sur l'innovation</h2>
-	    <p>"Open innovation", "implication des consammateurs dans le processus créatif", "innovation et performance des entreprises", autants de problématiques d'innovation qui se posent aux entreprises aujourd'hui. Nous [les étudiants du Master PIC] avons exploré quelques unes de ces problématiques. </p>
+	    <h2>Regards croisés sur l'innovation</h2>
+	    <p>"Open innovation", "implication des consammateurs dans le processus créatif", "innovation et performance des entreprises", autants de problématiques d'innovation qui se posent aux entreprises aujourd'hui. Nous [les étudiants du Master PIC] avons exploré quelques unes de ces problématiques au regards des visites d'entreprise à Montréal. </p>
 	    <p><a class="btn" href="articles-list.html#Articles-ref">Lire &raquo;</a></p>
 	</div>	
 </div>
