@@ -46,7 +46,7 @@ layout: default
 
 <div class="hero-unit row" >
 	<div class="span10">
-		<h1>L'innovation au Québec ?</h1>
+		<h1>Introduction</h1>
 		<p>Le Master PIC (Projet, Innovation, Conception) est un Master de Polytechnique en gestion de l’innovation.</p>
 		<p>Chaque année, le Master PIC organise un voyage d’étude à l’international pour ses étudiants.</p>
 		<p>Ce voyage permet d’apprécier les enjeux des processus de l’innovation dans un contexte différent et de prendre la mesure de l’importance des aspects culturels dans ce domaine de la gestion. Ce séjour permet aussi naturellement de nouer des contacts avec les entreprises et les universités du pays d’accueil.
@@ -57,6 +57,8 @@ layout: default
 			<li>Des regards croisés sur les visites (articles sur des questions d’innovation d’actualité illustrées par nos visites d’entreprise).</li>
 		</ul>
 		<p>Par ailleurs, nous remercions les entreprises qui nous ont ouvert leurs portes : Bombardier, Ericsson, UbiSoft, Cirque du Soleil, Hydro Québec, GE Aviation, Essilor. Nous remercions aussi les universités qui nous ont accueillis: HEC Montréal et ETS.</p>
+   		<p>              Les étudiants du Master PIC</p>
+	
    	</div>
    	
 </div>
