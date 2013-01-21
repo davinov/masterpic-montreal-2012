@@ -31,7 +31,7 @@ Le Québec est donc selon ces critères la région du monde où il fait le mieux
 Cependant, le Québec doit encore relever de nombreux défis pour assurer son avenir:
 
 - Le premier est démographique : Une population vieillissante pèse nécessairement sur la croissance d’un état. La tranche 15-64 ans a chuté de 15% entre 1990 et 2010.
-![Bassin de main-d'oeuvre potentielle au Québec]({{ ASSET_PATH }}/../img/bassin-mo-quebec.png)
+![Bassin de main-d'oeuvre potentielle au Québec]({{ ASSET_PATH }}../img/bassin-mo-quebec.png)
 - Bien qu’en progression, les revenus des québécois sont faibles par rapport à leurs voisins : Plus des trois quarts de la population québécoise disposent d'un pouvoir d'achat inférieur au reste du Canada. Les Québécois travaillent aussi moins que dans les autres provinces, selon une étude du Centre sur la productivité et la prospérité de HEC Montréal.
 - Une fiscalité élevée : Luc Godbout note dans son étude comparative de l’effort fiscal des différentes provinces du Canada : 
 
