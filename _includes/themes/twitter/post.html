@@ -5,6 +5,17 @@
     </div>
 
     <div class="span4">
+    	{% unless page.authors == empty %}
+        <h4>Contributeurs</h4>
+        <ul class="unstyled">
+            {% for author in page.authors %}
+            <li>
+                {{ author.name }}
+            </li>
+            {% endfor %}
+        </ul>
+        {% endunless %}
+    	
         <h4>Date de publication</h4>
         <div class="date">
             <span>{{ page.date | date_to_long_string }}</span>
