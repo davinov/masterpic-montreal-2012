@@ -13,7 +13,7 @@ layout: default
 		</td>
 		<td>
 			<h1>L'innovation au Québec ?</h1>
-			<p>Bienvenue sur le site du rapport du voyage d'études à Montréal du <a href="http://masterpic.fr" target="_blank">Master PIC</a>, qui a eu lieu du 28 octobre au 3 novembre 2012. Vous trouverez ici la liste des <a href="articles-list.html#Entreprises-ref">comptes rendus des visites d'entreprises</a> ainsi que des <a href="articles-list.html#Articles-ref">articles de réflexion</a> sur des sujets d'innovation</p>
+			<p>Bienvenue sur le site du rapport du voyage d'études à Montréal du <a href="http://masterpic.fr" target="_blank">Master PIC</a>, qui a eu lieu du 28 octobre au 3 novembre 2012. Vous trouverez ici la liste des <a href="articles-list.html#Entreprises-ref">comptes rendus des visites d'entreprises</a> ainsi que des <a href="articles-list.html#Articles-ref">articles de réflexion</a> sur des sujets d'innovation.</p>
    			 <!--<span><a class="btn btn-primary btn-large" href="articles-list.html">Commencer la lecture &raquo;</a></span>-->
 		</td>	
 	</table>
@@ -38,8 +38,8 @@ layout: default
 					<td><a href="http://davinov.github.com/masterpic-montreal-2012/Entreprises/Essilor/" target="_blank"><img src="https://lh4.googleusercontent.com/-nO8hUATiS04/UPWgh5qfMpI/AAAAAAAAAvs/NOwMzy1RtvE/s144/logo_essilor.jpg" height="50px" ></a></td>
 				</tr>
 			</table>
-			<p>Cliquez sur le logo d'une entreprise. Vous découvrirez le compte rendu de la visite que nous y avons fait.</p>
-			<p><a class="btn" href="articles-list.html#Entreprises-ref">Liste des entreprises...</a></p>
+			<p>Cliquez sur le logo d'une entreprise pour découvrir le compte rendu de la visite que nous y avons fait.</p>
+			<p><a class="btn" href="articles-list.html#Entreprises-ref">Liste des entreprises &raquo;</a></p>
     </div>
     <div class="span6">
 	    <h2>Articles de réflexion sur l'innovation</h2>
