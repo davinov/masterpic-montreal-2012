@@ -4,16 +4,14 @@ layout: default
 {% include JB/setup %}
 
 <div class="hero-unit row" >
-	<div class="span9">
 		<h1>L'innovation au Québec ?</h1>
 		<p>Bienvenue sur le site du rapport du voyage d'études à Montréal du <a href="http://masterpic.fr" target="_blank">Master PIC</a>, qui a eu lieu du 28 octobre au 3 novembre 2012. Vous trouverez ici la liste des <a href="articles-list.html#Entreprises-ref">comptes rendus des visites d'entreprises</a> ainsi que des <a href="articles-list.html#Articles-ref">articles de réflexion</a> sur des sujets d'innovation.</p>
-   	</div>
-   	<div class="span1">
-		<span class='st_facebook_vcount' displayText='Facebook'></span>
-		<span class='st_googleplus_vcount' displayText='Google +'></span>
-		<span class='st_twitter_vcount' displayText='Tweet'></span>
-		<span class='st_linkedin_vcount' displayText='LinkedIn'></span>
-	</div>
+		<p>
+			<span class='st_facebook_vcount' displayText='Facebook'></span>
+			<span class='st_googleplus_vcount' displayText='Google +'></span>
+			<span class='st_twitter_vcount' displayText='Tweet'></span>
+			<span class='st_linkedin_vcount' displayText='LinkedIn'></span>
+		</p>
 </div>
 
 <div class="row">
@@ -42,8 +40,7 @@ layout: default
 	    <p><a class="btn" href="articles-list.html#Articles-ref">Lire &raquo;</a></p>
 	</div>	
 </div>
-
-
+<hr>
 <h1>Introduction</h1>
 <p>Le Master PIC (Projet, Innovation, Conception) est un Master de Polytechnique en gestion de l’innovation.</p>
 <p>Chaque année, le Master PIC organise un voyage d’étude à l’international pour ses étudiants.</p>
