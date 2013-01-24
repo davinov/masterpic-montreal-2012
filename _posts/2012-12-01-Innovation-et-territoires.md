@@ -1,11 +1,73 @@
 ---
 layout: post
-tags : [innovation]
+tags : [innovation, territoires]
 category: Articles
 title: "Approche descendante et ascendante"
 authors:
- - {name : ""}
- - {name : ""}
- - {name : ""}
+ - {name : "GUERINEAU Mathias"}
+ - {name : "HOBT Adrien"}
+ - {name : "SLEIMAN Jean-Pierre"}
 ---
 {% include JB/setup %}
+
+#Innovation et territoire
+
+##Introduction 
+
+###Montréal : une ville créative !
+
+Ce titre flatteur résume bien le bouillonnement qu’il existe sur le territoire montréalais. Toutes les industries s’y trouvant ont un dénominateur commun : l’innovation. Que l’on soit dans la grande industrie (GE aviation, Bombardier, Ericsson) ou l’industrie culturelle (Ubisoft, le cirque du soleil), une force créative semble animer ces firmes. Est-ce le fait du hasard ou d’une concordance d’éléments rendant par exemple le territoire montréalais plus innovant que la moyenne ?
+
+Territoire est un terme pouvant recouvrir de nombreux sens. Il peut être compris dans une optique géographique, politique ou encore culturelle. Les territoires renvoient donc à une population, une forme d'urbanisation, une culture ou une économie. Le fait de prendre en compte les territoires en management de l’innovation signifie que l’on s’intéresse aux spécificités et influences que peuvent avoir chacun de ces éléments sur la créativité et l’innovation. Ces éléments sont par exemple : le coût et la qualité de la main d’œuvre et de la vie,  la structure de la demande, la législation et la fiscalité, la pression concurrentielle, le coût de transaction pour accéder à ce territoire et le dynamisme culturel, créatif et intellectuel. 
+
+Il faut donc comprendre pourquoi une firme choisit de s'installer sur un territoire donné et, si ce territoire est intrinsèquement facteur d’innovations ou bien le fruit de concordances favorables pour la firme. En effet les choix de localisation sont le fait de s’implanter dans un lieu plutôt qu’un autre pour en retirer des avantages. Ces avantages, dans notre cas vont se traduire par une capacité importante à innover et à créer. On s’interroge donc sur le lien possible qu’il peut y avoir entre la capacité d’innover et le fait d’être inscrit dans un territoire donné. 
+
+Est-ce la firme qui par son organisation est innovante et rend ainsi le territoire innovant ou bien le territoire qui par effet de porosité rend la firme plus innovante « qu’elle ne le serait ailleurs » ? 
+
+##Les opportunités d’apprentissage et d’innovation sont liés aux spécificités du territoire
+
+Les villes et les régions sont des lieux de maximisation des opportunités d’affaires, mais aussi d’apprentissage et d’innovation. En effet une zone industrielle concentrée offre une circulation de l’information facilitée, une coproduction de connaissances mais aussi des externalités d’infrastructures, de savoir-faire et de technologie.
+
+S’implanter sur une zone dans laquelle on peut profiter d’une information plus rapide et plus fiable est une opportunité très importante pour une organisation. Pouvoir profiter d’externalités de connaissances et d’infrastructures permet d’’avoir un meilleur apprentissage organisationnel, et d’innover plus facilement. Ceci est vrai pour des entreprises liées à la même industrie, mais également pour des firmes rattachées à des industries différentes mais complémentaires.
+
+En effet, d’après de nombreux chercheurs, la connaissance est très spécifique au sein d’une industrie (Marshall, 1890, Porter, 1993). Les échanges d’idées et d’informations se font donc en grande majorité entre des entreprises d’un même secteur. C’est ainsi que se sont développés des « clusters », c’est-à-dire des zones géographiques qui concentrent des entreprises, fournisseurs et institutions interconnectés et associés à une même industrie, afin de créer des externalités positives, notamment par la circulation des connaissances et des idées. Ainsi, la Tohu (la Cité des Arts du Cirques) de Montréal, regroupe l’Ecole Nationale du Cirque ainsi que le siège social et le centre d’hébergement des artistes du Cirque du Soleil et une salle de spectacle circulaire d’une capacité de 900 personnes. Cette proximité entre les différents éléments constituant l’industrie du cirque (de la formation des artistes jusqu’aux représentations au public) favorise les échanges créatifs et l’innovation.
+
+D’autres recherches ont mené à des théories selon lesquelles ces externalités positives dues au partage de connaissances et d’idées créatives peuvent se produire entre des entreprises liées à des industries complémentaires, car certaines idées provenant d’une industrie peuvent être appliquées dans une autre, mais également car la rencontre de plusieurs secteurs peut générer des idées totalement nouvelles (Jacobs, 1969). On peut ainsi comprendre l’exemple d’Ubisoft dans ce sens. En effet, il existe une véritable transmission de la connaissance entre membres d’un projet et entre les « mêmes métiers » de différents projets. Cela n’est pas organisé de façon formelle et il semble que ce processus se passe au sein de l’organisation mais aussi à l’extérieur -c’est-à-dire dans la ville, aussi bien avec des employés d’Ubisoft qu’avec d’autres individus travaillant dans le jeu vidéo, dans d’autres industries créatives, ou issus du milieu « underground ». Ce phénomène est favorisé par une vie active d’un point de vue culturel et de moments de rencontres possible : les programmeurs ou game designer de différentes firmes peuvent se rencontrer et rencontrer d’autres créatifs ou artistes, dans des lieux comme les bars ou les festivals. Ce partage donne lieu à des phénomènes étonnants, comme par exemple la participation du musicien Amon Tobin à la trame sonore du jeu Splinter Cell Chaos Theory (2005), suite à sa rencontre avec des employés d’Ubisoft travaillant sur ce jeu. On retrouve aussi ces mécanismes dans des zones comme la Silicon Valley, dans laquelle créée une richesse largement supérieure au reste des Etats-Unis (en termes relatif) et du monde. En effet, c’est la présence d’externalités permanentes tant au niveau des savoirs que des savoirs faire et des technologies qui permet aux entreprises d’accroitre leurs performances et leur probabilité d'innover (Hamel, 1999). Cette puissance d’innovation se traduit en chiffres puisqu’aujourd’hui Montréal est la première ville canadienne en nombre de brevets déposés et en montants investis en capital-risque.
+
+Il y a de ce fait un rôle important des collectivités territoriales dans l’accélération du processus de mise en réseau : c’est l’activation résiliaire (Fourcade, 1993). Les entreprises peuvent alors profiter des pépinières d’entreprises innovantes, des technopoles et des incubateurs que peuvent être certains centres de recherches et universités. 75% des activités de recherche de l’ETS sont menées en collaboration avec l’industrie avec plus de 200 entreprises ! Le hub de créativité de Montréal que l’ETS souhaite créer s’inscrit parfaitement dans cette mouvance. Essayer de faire collaborer un maximum de personnes qui ont pour dénominateur commun leur territoire et leur volonté d’innover permettrait de développer un certain nombre d’idées et d’innovations. Le projet plus global de création d’un Quartier de l’Innovation à Montréal, regroupant des institutions universitaires et scientifiques (dont l’ÉTS), des entreprises, des complexes résidentiels, des services et commerces de composantes culturelles est également un autre exemple de formation d’un territoire visant à attirer des entreprises innovantes en favorisant les interactions entre les milieux universitaires et scientifiques, industriels, artistiques et créatifs. Il est alors dans l’intérêt des firmes de se localiser dans des régions apprenantes comme peut l’être la ville de Montréal et de mettre en place des politiques de la ville favorisant l'émergence des classes créatives (Florida, 1995). Dans ces régions on peut donc profiter d’un réseau d’acteurs politiques, économiques, sociaux, artistiques et institutionnel maillés pour se transmettre fréquemment information et expertise.
+
+L’objectif de ces territoires est la mise en contact de l’ « upperground » (constitué des cadres supérieurs des grandes entreprises, des chercheurs, des investisseurs potentiels) avec le milieu « underground » (celui des artistes et créateurs de rue) via un intermédiaire, le « middleground ». Cette mise en relation permet en effet les échanges décrits précédemment. C’est notamment la démarche entreprise par la Société des Arts Technologiques, fondée en 1996. Ce centre pluridisciplinaire est dédié à la recherche, la créativité, la production, la formation et la diffusion de la culture numérique. Il offre ainsi la possibilité aux chercheurs et créateurs de mettre en place des programmes de recherche, de prototypage, de production, de formation et de communication autour de ces technologies numériques. Mais il accueille également des événements artistiques (festivals, concerts…) qui permettent de mettre en contact ces communautés dans un processus de partages, d’échanges et de créativité.
+
+Si les effets externes positifs peuvent être recherchés en matière d’innovation et d’apprentissage, les entreprises peuvent également choisir leur localisation pour profiter d’une concurrence qualitative.
+
+##Les bénéfices d’une concurrence qualitative
+
+Par concurrence qualitative, on entend ici une concurrence qui incite les entreprises à innover, à produire des biens de qualité, et à faire face à une concurrence féroce qui les fait progresser.
+
+On peut mettre en avant l’avantage de localisation décrit dans le diamant de Porter (Porter, 1993). Il suggère que l’origine géographique des entreprises leur procure un avantage résultant de quatre facteurs : les facteurs spécifiques, la demande, la stimulation mutuelle, et la structure de la concurrence. Ce sont notamment les trois derniers qui sont symboliques de la concurrence qualitative opérant dans un territoire concentrant de nombreuses entreprises. 
+
+La concurrence ou la structure des industries dans une zone doit être un critère de choix primordial. Une forte concurrence sur un territoire donné incitera  l’entreprise à toujours progresser, innover et ainsi elle sera plus à même de supporter la concurrence mondiale. A l’inverse une entreprise en monopole sur un territoire donné aura plus de difficultés à juguler la concurrence internationale. On peut donc conclure de cela qu’un choix de localisation dans un lieu sans concurrent est dangereux, et en cas de pénétration sur son marché d’une entreprise concurrente, il sera plus difficile de répondre pour le monopoleur. Ces caractéristiques se retrouvent à Montréal en particulier. Le territoire montréalais attire de très nombreuses entreprises qui elles-mêmes vont entrer en concurrence avec d’autres. Le cas d’Ubisoft est encore prégnant : EA ou THQ sont aussi présents à Montréal, deux des plus gros concurrents du secteur des jeux-vidéos. Cela se traduit par une « chasse » aux talents mais aussi par des échanges informels de connaissances et de savoir-faire. De même, le secteur de Montréal est un des seuls au monde (avec Toulouse entre autre) où l’on peut fabriquer un avion de A à Z dans une zone de 50 km². Ce sont toutes des entreprises concurrentes qui la composent mais, en se localisant à proximités les unes des autres, elles s’entraînent mutuellement vers plus d’innovations et de performances. La concurrence pousse aussi des entreprises comme Essilor à innover dans leur business modèle pour faire face à des canaux de distribution particuliers (Internet et retailers en ligne).
+
+La demande locale revêt également une grande importance. L’exigence des consommateurs locaux peut permettre de prendre de l’avance par rapport aux concurrents d’autres territoires. Historiquement, l’exigence du marché japonais a participé à faire de l’industrie japonaise, une industrie de très haute qualité. Cela a permis aux entreprises japonaises de pénétrer le marché mondial assez aisément et à s’imposer au fil du temps comme une référence en matière de qualité. En faisant une analogie, l’exigence montréalaise et québécoise peut se traduire par un niveau de qualité élevée mais surtout une demande avide de création, de nouveauté répondant à l’esprit créatif de la ville. En effet, au Québec, la culture représente 4,1% du PIB (soit 10 milliards de dollars) et plus de 130 000 emplois, comparativement au secteur de l’hébergement et de la restauration qui ne représente que 2% du PIB. L’apport au développement économique des secteurs de la culture et de la communication est donc majeur.
+
+Au final, on assiste à une stimulation mutuelle. C'est-à-dire que des groupes d’industries interdépendantes peuvent faire leur apparition dans certaines zones, et on rentre dans ce que l’on appelle la coopétition, c'est-à-dire que les entreprises sont rivales mais également interdépendantes. Elles sont rivales pour ce qui est de s’attribuer le revenu des consommateurs, mais interdépendante dans leurs échanges d’information et de savoir. C’est en cela que le territoire montréalais joue un rôle important de facilitateur des échanges (formels et informels) de produits et services mais surtout d’idées et de connaissances,  donc d'innovation.
+
+##Bibliographie
+
+Bartlett, C., & Ghoshal, S. (1989). Managing across Borders : the Transnational Solution.
+
+Brandenburger, A., & Nalebuff, B. (1996). La Co-Opétition.
+
+Florida, R. (1995). Toward the learning region.
+
+Fourcade, C. (1993). Gouvernement territorial et district industriel : l'exemple de Montpellier.
+
+Hamel. (1999). Bringing Silicon Valley Inside.
+
+Johnson, G., Whittington, R., Scholes, K., & Frery, F. (2011). Stratégique. Pearson.
+
+Porter, M. (1993). L'Avantage Concurrentiel des Nations.
+
+Marshall, A.(1890). Principles of Economics
+
+Jacobs, J (1969). The Economy of Cities
