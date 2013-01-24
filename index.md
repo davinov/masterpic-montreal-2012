@@ -44,7 +44,7 @@ Je remercie aussi chaleureusement nos collègues universitaires canadiens, en pa
 
 Enfin, David Massé et Felix von Pechmann ont assuré l’essentiel du lourd travail de montage de ce voyage. Au nom de tous nous les remercions.
 
-> **Christophe Midler**, professeur responsable du Master PIC
+> Christophe Midler, *professeur responsable du Master PIC*
 
 
 

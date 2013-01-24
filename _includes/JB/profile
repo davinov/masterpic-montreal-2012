@@ -1,0 +1,34 @@
+<li>
+	{% if profile.mail %}
+	<a href="mailto:{{profile.mail}}">
+	{% endif %}
+   		{{ profile.name }}
+   	{% if profile.mail %}
+	</a>
+	{% endif %}
+	{% if profile.linkedin %}
+	<a href="http://{{ profile.linkedin }}">
+		<img src="{{ ASSET_PATH }}../img/linkedin.png">
+	</a> 
+	{% endif %}
+	{% if profile.twitter %}
+	<a href="http://twitter.com/{{ profile.twitter }}">
+		<img src="{{ ASSET_PATH }}../img/twitter.png">
+	</a> 
+	{% endif %}
+	{% if profile.slideshare %}
+	<a href="http://slideshare.net/{{ profile.slideshare }}">
+		<img src="{{ ASSET_PATH }}../img/slideshare.png">
+	</a> 
+	{% endif %}
+	{% if profile.facebook %}
+	<a href="http://facebook.com/{{ profile.facebook }}">
+		<img src="{{ ASSET_PATH }}../img/facebook.png">
+	</a> 
+	{% endif %}
+	{% if profile.googleplus %}
+	<a href="http://plus.google.com/{{ profile.googleplus }}">
+		<img src="{{ ASSET_PATH }}../img/googleplus.png">
+	</a>
+	{% endif %}
+</li>
