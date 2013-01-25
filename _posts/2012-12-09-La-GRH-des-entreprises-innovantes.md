@@ -2,18 +2,16 @@
 layout: post
 tags : [innovation, ressources-humaines]
 category: Articles
-title: "La GRH des entreprises innovantes"
+title: "Le rôle de la Gestion des Ressources Humaines (GRH) dans l’innovation"
 authors:
  - {name : "Guillaume Rivière"}
  - {name : "Guillaume Arnaud"}
 ---
 {% include JB/setup %}
 
-#Le rôle de la Gestion des Ressources Humaines (GRH) dans l’innovation
-
 La création d’une culture favorisant l’innovation au sein d’une entreprise nécessite une gestion des ressources humaines particulière à tous les niveaux. Nous allons voir ici l’impact de la GRH (Gestion des Ressources Humaines) sur les processus d’innovation internes à l’entreprise à chacune des étapes clés de la fonction : recrutement, création d’un environnement favorable, gestion des talents et diffusion des innovations.
 
-##Recruter des talents propices à l’innovation
+###Recruter des talents propices à l’innovation
 
 Rappelons pour commencer que tout processus d’innovation est initié par des hommes, conduit par des hommes et mène à des résultats qui seront à leurs tours diffusés par des hommes.
 
@@ -23,7 +21,7 @@ Dans cette optique, la recherche en gestion de ressources humaines a permis de d
 
 Nous avons appris lors de notre visite de l’usine d’assemblage de la gamme Challenger de Bombardier que beaucoup d’ingénieurs et d’experts de l’entreprise étaient proches de la retraite. Bombardier, en tant que troisième acteur mondial sur le marché du transport de passager derrière Boeing et Airbus et acteur majeur du marché du business jet, a pour obligation d’innover pour conforter, voire améliorer, sa place parmi les leaders sur ces marchés. Cette innovation passe par la créativité de ses ingénieurs et le renouvellement des cadres de Bombardier doit donc se faire en ce sens.
 
-##Créer un environnement de travail favorisant l’innovation
+###Créer un environnement de travail favorisant l’innovation
 
 Intéresser les talents recrutés nécessite ensuite de créer un environnement de travail dans lequel ils pourront s’épanouir.
 
@@ -33,7 +31,7 @@ Un autre exemple d’entreprise qui porte une attention particulière au bien-ê
 
 Toujours dans le sens de l’amélioration du bien-être personnel des employés et de leur degré de satisfaction, de plus en plus d’entreprises mettent en place des systèmes de management participatifs dans lesquels tous les employés ont leur rôle à jouer, nous verrons des exemples dans la partie suite.
 
-##Gérer les talents
+###Gérer les talents
 
 Il est également de la responsabilité de la GRH que de s’assurer que chaque ressource soit affectée là où elle peut avoir l’impact le plus important, notamment sur la créativité. Cela signifie, lorsqu’il y a plusieurs projets innovants, répartir chaque personne sur tel ou tel projet en prenant en compte leurs connaissances et motivations. C’est par exemple ce que fait Ubisoft à la suite des entretiens individuels de fin de projets.
 
@@ -47,7 +45,7 @@ Autre exemple de management participatif, le Cirque du Soleil encourage ses empl
 
 Le Cirque du Soleil encourage également ses employés désireux de le faire à prendre une année sabbatique pour voyager ou réaliser des projets de manière à générer de nouvelles idées artistiques à leur retour en entreprise.
 
-##Diffuser la connaissance et l’innovation
+###Diffuser la connaissance et l’innovation
 
 Mais en plus de créer et faire vivre une culture d’innovation au sein de certaines divisions clés, le rôle de la GRH est également de s’assurer que les innovations créées soient bien diffusées au sein du reste de l’entreprise. En effet, certains services d’une entreprise peuvent être réfractaires à l’adoption d’un nouveau produit, d’une nouvelle méthode de travail, d’une nouvelle approche d’un marché, etc. Il s’agit de faire en sorte que la diffusion des innovations se fasse le plus facilement et le plus efficacement possible.
 

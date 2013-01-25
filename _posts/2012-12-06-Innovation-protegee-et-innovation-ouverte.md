@@ -9,13 +9,13 @@ authors:
 ---
 {% include JB/setup %}
 
-###Présentation de l’innovation ouverte
+####Présentation de l’innovation ouverte
 
 L’innovation ouverte est un modèle d’innovation basé sur le partage et la collaboration. Elle repose sur le constat qu’une mutualisation des moyens et des acquis permet un processus d’innovation plus rapide et efficace. En outre, en rendant accessibles des innovations non utilisées par leurs développeurs (brevets, données, co-innovation, publications, etc.), elle permet de réduire le « gaspillage ». Plus largement, l’innovation ouverte permet de créer de nouveaux modèles économiques construits sur la base d’idées piochées dans des domaines différents mais constituant un tout cohérent.
 
 L’innovation ouverte a donc pour objectif de connecter les « cherchants » et les « sachants » où qu’ils soient et de permettre une diffusion rapide des informations dans tout l’écosystème.
 
-##Principe de la communauté : 
+###Principe de la communauté
 
 L’innovation ouverte est indissociable du principe de communauté, que ce soit au niveau de l’entreprise, du cluster, du pays, voir même du monde. Ainsi, en œuvrant à la mise en place de « lieux de rencontre », la ville de Montréal crée une proximité géographique nécessaire aux échanges répétés et donc à l’élaboration de communautés. Le Quartier de l’innovation, soutenu par l’ETS, en est l’exemple le plus récent. Ce grand projet vise à créer un écosystème urbain propice à l’innovation en regroupant entreprises, universités, habitations, commerces, lieux culturels, etc. 
 
@@ -23,7 +23,7 @@ A l’intérieur de ces communautés, les idées  circulent en permanence par le
 
 Ensuite, l’innovation ouverte implique une ouverture d’esprit des différents acteurs et un partage des connaissances, elle implique donc une relation de confiance, pouvant se propager à d’autres secteurs, avec par exemple une circulation des connaissances entre des métiers différents et la création de communauté pluridisciplinaire. Et si l’ouverture est suffisamment forte, des échanges avec d’autres entreprises peuvent avoir lieu. Des entreprises aux activités parfois très différentes : Ubisoft et Hyro-Québec ont été amené à collaborer par le passé.
 
-###Evolution vers un modèle d’innovation ouvert :
+###Evolution vers un modèle d’innovation ouvert
 
 Au cours de ce voyage d’étude, nous avons découvert des entreprises conscientes de l’importance du modèle de l’innovation ouverte et de la nécessité (à des degrés variés) de sortir du modèle traditionnel d’innovation. 
 
@@ -37,7 +37,7 @@ Elle est cependant ralentie par l’impérieuse nécessité ressentie de protég
  - Les entreprises sont également aptes à proposer des solutions plus optimales à leurs clients : En effet, la création de valeur est plus adaptée aux marchés et les innovations proposées ont un potentiel commercial plus fort, car s’appuyant sur de nombreux points de vue, et intégrant des problématiques différentes de celles auxquelles est confrontée l’entreprise en règle générale. Ainsi pour comprendre et/ou influencer les grandes tendances de demain en matière de mobilité, Bombardier a mis en place plusieurs programmes d’innovation et de conception partagée. Ceci s’est traduit par des concours mondiaux (YouRail DesignContest et Bombardier YouCity) qui ont permis à l’espace de conception de Bombardier de s’ouvrir à une variété supérieure de concepteurs (utilisateurs, designers, critiques, étudiants…).
  - Enfin l’entreprise acquiert une connaissance plus profonde du domaine exploré, de l’environnement concurrentiel externe et apprend à manier subtilement les problématiques de propriétés intellectuelles afin de conserver une partie des bénéfices liés à l’introduction de l’innovation.
 
-###Craintes générées par l’adoption d’un modèle d’innovation ouverte
+####Craintes générées par l’adoption d’un modèle d’innovation ouverte
 Les entreprises et leurs salariés sont confrontés à plusieurs craintes concernant l’innovation ouverte qu’il faut expliquer et désamorcer avant de pouvoir développer l’innovation ouverte :
  - La protection intellectuelle des idées et des documents de l’entreprise : en effet les informations de l’entreprise sont diffusées à des acteurs extérieurs, et dès lors qu’elles sortent de l’enceinte de l’entreprise, il est difficile de savoir à qui elles sont diffusées. Les entreprises prennent donc de grandes précautions lors de l’échange de documents. En effet, lors de notre visite d’Ericsson nous avons pu constater toute l’importance accordée aux brevets, comme protection de l’innovation mais aussi comme mesure de son efficacité. En cela, Ericsson est un nouvel exemple de politique « hybride » d’innovation, entre innovation ouverte (Bluetooth) et innovation protégée.
  - La complexité du processus : du fait de l’intervention de partenaires externes, le processus d’innovation est complexifié, et donc augmente la charge de travail des équipes en place. L’ouverture à l’extérieur et à l’international d’Hydro-Québec a nécessité la mise en place d’un back office très performant, capable de soutenir la R&D lors de la phase de démarrage des projets, et ce, en particulier pour des problèmes administratifs ou encore de protection intellectuelle.
