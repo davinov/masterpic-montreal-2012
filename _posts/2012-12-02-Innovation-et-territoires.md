@@ -2,7 +2,7 @@
 layout: post
 tags : [innovation, territoires]
 category: Articles
-title: "Approche descendante et ascendante"
+title: "Innovation et territoires"
 authors:
  - {name : "Mathias Guérineau"}
  - {name : "Adrien Hobt"}
