@@ -67,7 +67,7 @@ La dépense intérieure brute de R&D du Québec est de l’ordre de 7,2 milliard
 La proportion de chercheurs dans la population active est légèrement inférieure à celle des pays les plus avancés en recherche. Le gouvernement essaye donc de valoriser le métier de chercheur et d’apporter son soutien aux projets qui ont une valeur internationale.
 
 #####En matière de recherche industrielle et d’innovation dans les entreprises
-Pour réduire la part d’investissement public et atteindre les 33%, le Canada a mis en place une politique de défiscalisation des dépenses de R&D et des investissements pour inciter  la participation du privé. Le gouvernement québécois 
+Pour réduire la part d’investissement public et atteindre les 33%, le Canada a mis en place une politique de défiscalisation des dépenses de R&D et des investissements pour inciter  la participation du privé.
 
 Le Québec est en retard sur le reste du Canada pour ce qui concerne la création d’entreprise issue de la recherche publique et sur la recherche universitaire pour des besoins privés. Le gouvernement facilite donc les partenariats entre entreprises et universités pour combler cet écart.
 
