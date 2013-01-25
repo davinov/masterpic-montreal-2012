@@ -62,6 +62,5 @@ Les services liés à un nouveau produit peuvent jouer un rôle clé, par exempl
 
 ###Bibliographie
 - Cusumano MA, Gawer A, “The elements of platform leadership”, MIT Sloan Management Review, 2002, Vol:43, pp:51-58
-
-Teece D. J., 1986, “Profiting from Technological Innovation: Implications for Integration, Collaboration, Licensing and Public Policy”, Research Policy, 15, pp 285-306
+- Teece D. J., 1986, “Profiting from Technological Innovation: Implications for Integration, Collaboration, Licensing and Public Policy”, Research Policy, 15, pp 285-306
 
