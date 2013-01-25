@@ -58,7 +58,7 @@ Le gouvernement québécois analyse de près les dynamiques en jeu et tente de m
 ###La politique québécoise vis-à-vis de l’innovation
 Le Québec jouit d’une excellente réputation internationale dans le milieu de la recherche en ce qui concerne la qualité de sa formation et de ses centres de recherche. Il fait cependant face à la difficulté de transformation de la connaissance en produits ou procédés destinés à pousser l’économie de la province. Le gouvernement multiplie les initiatives pour développés des passerelles entre la recherche publique et privée pour ainsi mieux tirer partie de son niveau d’excellence scientifique.
 
-####Les chiffres de l’inovation
+####Les chiffres de l’innovation
 La dépense intérieure brute de R&D du Québec est de l’ordre de 7,2 milliards de dollars par an soit 2,72% de son PIB (7e place dans le classement de l’OCDE, l’objectif est d’atteindre les 3 %), financée à 40% par les fonds publics (Objectif de réduire à  33%). Le Québec est également la province canadienne la plus innovante et représente 27% de l’investissement total.
 
 ####Les chantiers du gouvernement
