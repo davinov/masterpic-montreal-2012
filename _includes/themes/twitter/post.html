@@ -11,7 +11,7 @@
             {% for author in page.authors %}
             	{% for profile in site.profiles %}
 	            	{% if author.name == profile.name %}
-		                {% include JB/profile %}
+		                <li>{% include JB/profile %}</li>
 		            {% endif %}
             	{% endfor %}
             {% endfor %}

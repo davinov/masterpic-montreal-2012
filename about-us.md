@@ -13,7 +13,7 @@ Ce voyage permet d’apprécier les enjeux des processus de l’innovation dans 
 Nous avons décidé de partager les connaissances que nous avons acquises lors de ce voyage afin d’en faire profiter le public et de remercier les entreprises qui nous ont accueillis. Vous pouvez ainsi trouver ci-après deux types de documents:
 
 - Les résumés de nos visites d’entreprise
-- Des regards croisés sur les visites (articles sur des questions d’innovation d’actualité illustrées par nos visites d’entreprise).
+- Des regards croisés sur ces visites (articles sur des questions d’innovation d’actualité illustrées par nos visites d’entreprise).
 
 Par ailleurs, nous remercions les entreprises qui nous ont ouvert leurs portes : Bombardier, Ericsson, UbiSoft, Cirque du Soleil, Hydro Québec, GE Aviation, Essilor. Nous remercions aussi les universités qui nous ont accueillis: HEC Montréal et ETS.
 
@@ -21,8 +21,8 @@ Par ailleurs, nous remercions les entreprises qui nous ont ouvert leurs portes :
 Le Master PIC, créé en 2002, s'appuie sur les compétences anciennes et reconnues du Centre de Recherche en Gestion de l'Ecole polytechnique sur l'axe « stratégies d'innovation projet et systèmes de conception ». Dans la décennie 2000, plusieurs enseignements ont été développés, au sein du département Humanités et Sciences Sociales, pour compléter l'offre de formation sur ce thème clé de la compétence des ingénieurs : management de projet, stratégies d’innovation et organisation des systèmes de conception, marketing stratégique, design...
 
 ##Les étudiants du master PIC 2012/2013
-<ul>
+<ul class="inline">
     {% for profile in site.profiles %}
-        {% include JB/profile %}
+        <li>{% include JB/profile %}</li>
     {% endfor %}
 </ul>

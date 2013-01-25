@@ -1,86 +1,1 @@
-<!DOCTYPE html>
-<html lang="fr">
-    <head>
-        <meta charset="utf-8">
-        <title>{{ page.title }}</title>
-        {% if page.description %}
-        <meta name="description" content="{{ page.description }}">
-        {% endif %}
-        <meta name="author" content="{{ site.author.name }}">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-
-        <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
-        <!--[if lt IE 9]>
-        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
-
-        <!-- Le styles -->
-        <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-        <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
-        <link href="{{ ASSET_PATH }}/css/style.css" rel="stylesheet" type="text/css" media="all">
-        <style type="text/css">
-            body {
-                padding-top: 60px;
-            }
-        </style>
-        <!-- Le fav and touch icons -->
-        <!-- Update these with your own images
-        <link rel="shortcut icon" href="images/favicon.ico">
-        <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
-        <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
-        <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
-        -->
-        
-    </head>
-
-    <body>
-
-        <div class="navbar navbar-fixed-top">
-            <div class="navbar-inner">
-                <div class="container">
-                    <a href="http://masterpic.fr"><img class="brand" src="{{ ASSET_PATH }}/../../img/masterpic.png"></a>
-                    <a class="brand" href="{{ HOME_PATH }}">Montréal 2012</a>
-                    <ul class="nav">
-                        {% assign pages_list = site.pages %}
-                        {% assign group = 'navigation' %}
-                        {% include JB/pages_list %}
-                    </ul>
-                    <div class="edit-link">
-                        <a class="hidden-link" href="https://github.com/davinov/masterpic-montreal-2012/">Edit</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="container">
-
-            {{ content }}
-
-        </div>
-        <!-- /container -->
-
-        <footer class="footer">
-            <div class="container">
-                <p>
-                    Réalisé par <a href="{{ site.author.website }}">{{ site.author.name }}</a> 2013
-                    en utilisant <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-                    et <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>. Hébergé par <a href="http://pages.github.com/" target="_blank">Github Pages</a>.
-                </p>
-            </div>
-        </footer>
-
-        {% include JB/analytics %}
-
-        <!-- Le javascript
-        ================================================== -->
-        <!-- Placed at the end of the document so the pages load faster -->
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
-        <script src="http://twitter.github.com/bootstrap/assets/js/bootstrap.min.js"></script>
-        
-        {% if site.safe and site.JB.sharing.provider and page.JB.sharing != false and site.JB.sharing.provider == "sharethis" %}
-            <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-            <script type="text/javascript">stLight.options({publisher: "{{ site.JB.sharing.id }}"});</script>
-        {% endif %}
-    </body>
-</html>
+<!DOCTYPE html><html lang="fr">    <head>        <meta charset="utf-8">        <title>{{ page.title }}</title>        {% if page.description %}        <meta name="description" content="{{ page.description }}">        {% endif %}        <meta name="author" content="{{ site.author.name }}">        <meta name="viewport" content="width=device-width, initial-scale=1.0">        <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">        <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->        <!--[if lt IE 9]>        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>        <![endif]-->        <!-- Le styles -->        <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">        <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">        <link href="{{ ASSET_PATH }}/css/style.css" rel="stylesheet" type="text/css" media="all">        <style type="text/css">            body {                padding-top: 60px;            }        </style>        <!-- Le fav and touch icons -->        <!-- Update these with your own images        <link rel="shortcut icon" href="images/favicon.ico">        <link rel="apple-touch-icon" href="images/apple-touch-icon.png">        <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">        <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">        -->            </head>    <body>        <div class="navbar navbar-fixed-top">            <div class="navbar-inner">                <div class="container">                    <a href="http://masterpic.fr"><img class="brand" src="{{ ASSET_PATH }}/../../img/masterpic.png"></a>                    <a class="brand" href="{{ HOME_PATH }}">Montréal 2012</a>                    <ul class="nav">                        {% assign pages_list = site.pages %}                        {% assign group = 'navigation' %}                        {% include JB/pages_list %}                    </ul>                    <div class="edit-link">                        <a class="hidden-link" href="https://github.com/davinov/masterpic-montreal-2012/">Edit</a>                    </div>                </div>            </div>        </div>        <div class="container">            {{ content }}        </div>        <!-- /container -->        <footer class="footer">            <div class="container">                <p>                    Réalisé par <a href="{{ site.author.website }}">{{ site.author.name }}</a> 2013                    en utilisant <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>                    et <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>. Hébergé par <a href="http://pages.github.com/" target="_blank">Github Pages</a>.                </p>            </div>        </footer>        {% include JB/analytics %}        <!-- Le javascript        ================================================== -->        <!-- Placed at the end of the document so the pages load faster -->        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>        <script src="http://twitter.github.com/bootstrap/assets/js/bootstrap.min.js"></script>                {% if site.safe and site.JB.sharing.provider and page.JB.sharing != false and site.JB.sharing.provider == "sharethis" %}            <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>            <script type="text/javascript">stLight.options({publisher: "{{ site.JB.sharing.id }}"});</script>        {% endif %}    </body></html>

@@ -1,11 +1,11 @@
 ---
 layout: post
-tags : [innovation, temporalité]
+tags : [innovation, temporalite]
 category: Articles
 title: "Temporalité de l'innovation"
 authors:
- - {name : "CARTER Diana"}
- - {name : "MEHAY Roch"}
+ - {name : "Diana Carter"}
+ - {name : "Roch Mehay"}
 ---
 {% include JB/setup %}
 

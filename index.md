@@ -14,25 +14,6 @@ layout: default
 		</p>
 </div>
 
-<div class="row">
-	    <div class="span6">
-		<h2>Visites d'entreprises</h2>
-			<p>Cliquez sur une entreprise pour découvrir le compte rendu de la visite que nous y avons fait.</p>
-			<p><a class="btn" href="articles-list.html#Entreprises-ref">Liste des entreprises &raquo;</a></p>
-            {% for category in site.categories %}
-                {% if category == "Entreprises" %}
-                    {% assign pages_list = category[1] %}  
-                    {% include JB/pages_list %}
-              {% endif %}
-            {% endfor %}
-    </div>
-    <div class="span6">
-	    <h2>Regards croisés sur l'innovation</h2>
-	    <p>"Open innovation", "implication des consammateurs dans le processus créatif", "innovation et performance des entreprises", autant de problématiques d'innovation qui se posent dans les entreprises aujourd'hui. Nous [les étudiants du Master PIC] avons exploré quelques unes de ces problématiques au regards des visites d'entreprise à Montréal. </p>
-	    <p><a class="btn" href="articles-list.html#Articles-ref">Lire &raquo;</a></p>
-	</div>	
-</div>
-
 ###Avant-propos
 Cette note est issue d’un voyage d’études organisé dans le cadre du Master Projet Innovation Conception de l’Ecole Polytechnique. Cet enseignement, qui réunit des étudiants d’écoles d’ingénieurs et de business school, associe des enseignements théoriques et l’implication dans des projets d’innovation concrets au sein d’entreprises.
 
@@ -46,6 +27,30 @@ Enfin, David Massé et Felix von Pechmann ont assuré l’essentiel du lourd tra
 
 > Christophe Midler, *professeur responsable du Master PIC*
 
+<hr>
+
+<div class="row">
+	    <div class="span6">
+		<h2>Visites d'entreprises</h2>
+			<p>Cliquez sur une entreprise pour découvrir le compte rendu de la visite que nous y avons fait.</p>
+			{% for category in site.categories %}
+	            {% if category[0] == "Entreprises" %}
+	                    {% assign pages_list = category[1] %}  
+	                    {% include JB/pages_list %}
+	            {% endif %}
+            {% endfor %}
+    </div>
+    <div class="span6">
+	    <h2>Regards croisés sur l'innovation</h2>
+	    <p>"Open innovation", "implication des consammateurs dans le processus créatif", "innovation et performance des entreprises", autant de problématiques d'innovation qui se posent dans les entreprises aujourd'hui. Nous [les étudiants du Master PIC] avons exploré quelques unes de ces problématiques au regards des visites d'entreprise à Montréal. </p>
+	    {% for category in site.categories %}
+	            {% if category[0] == "Articles" %}
+	                    {% assign pages_list = category[1] %}  
+	                    {% include JB/pages_list %}
+	            {% endif %}
+        {% endfor %}
+	</div>	
+</div>
 
 
 

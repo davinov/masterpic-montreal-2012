@@ -1,12 +1,12 @@
 ---
 layout: post
-tags : [innovation, industrie productive, industrie créative]
+tags : [innovation, industrie-productive, crreation]
 category: Articles
 title: "Industrie productive vs industrie créative"
 authors:
- - {name : "MAUDOU Florie"}
- - {name : "DU BESSET Théophile"}
- - {name : "BERNOT Vincent"}
+ - {name : "Florie Maudou"}
+ - {name : "Théophile Du Besset"}
+ - {name : "Vincent Bernot"}
 ---
 {% include JB/setup %}
 

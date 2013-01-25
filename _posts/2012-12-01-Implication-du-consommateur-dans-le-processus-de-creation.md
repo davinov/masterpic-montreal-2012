@@ -1,6 +1,6 @@
 ---
 layout: post
-tags : [consommateur, création]
+tags : [consommateur, creation]
 category: Articles
 title: "L'implication du consommateur dans le processus de création : les méthodes d'exploration des besoins et de la valeur"
 ---

@@ -4,9 +4,9 @@ tags : [innovation, territoires]
 category: Articles
 title: "Approche descendante et ascendante"
 authors:
- - {name : "GUERINEAU Mathias"}
- - {name : "HOBT Adrien"}
- - {name : "SLEIMAN Jean-Pierre"}
+ - {name : "Mathias Guérineau"}
+ - {name : "Adrien Hobt"}
+ - {name : "Jean-Pierre Sleiman"}
 ---
 {% include JB/setup %}
 

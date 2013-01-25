@@ -1,6 +1,6 @@
 ---
 layout: post
-tags : [innovation, approche descendante, approche ascendante]
+tags : [innovation, approches]
 category: Articles
 title: "Approches descendante et ascendante"
 authors:

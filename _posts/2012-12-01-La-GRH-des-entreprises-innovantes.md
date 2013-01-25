@@ -1,11 +1,11 @@
 ---
 layout: post
-tags : [innovation, ressources humaines]
+tags : [innovation, ressources-humaines]
 category: Articles
 title: "La GRH des entreprises innovantes"
 authors:
- - {name : "RIVIERE Guillaume"}
- - {name : "ARNAUD Guillaume"}
+ - {name : "Guillaume Rivière"}
+ - {name : "Guillaume Arnaud"}
 ---
 {% include JB/setup %}
 
