@@ -10,11 +10,9 @@ authors:
 ---
 {% include JB/setup %}
 
-#Innovation et territoire
+###Introduction 
 
-##Introduction 
-
-###Montréal : une ville créative !
+####Montréal : une ville créative !
 
 Ce titre flatteur résume bien le bouillonnement qu’il existe sur le territoire montréalais. Toutes les industries s’y trouvant ont un dénominateur commun : l’innovation. Que l’on soit dans la grande industrie (GE aviation, Bombardier, Ericsson) ou l’industrie culturelle (Ubisoft, le cirque du soleil), une force créative semble animer ces firmes. Est-ce le fait du hasard ou d’une concordance d’éléments rendant par exemple le territoire montréalais plus innovant que la moyenne ?
 
@@ -24,7 +22,7 @@ Il faut donc comprendre pourquoi une firme choisit de s'installer sur un territo
 
 Est-ce la firme qui par son organisation est innovante et rend ainsi le territoire innovant ou bien le territoire qui par effet de porosité rend la firme plus innovante « qu’elle ne le serait ailleurs » ? 
 
-##Les opportunités d’apprentissage et d’innovation sont liés aux spécificités du territoire
+###Les opportunités d’apprentissage et d’innovation sont liés aux spécificités du territoire
 
 Les villes et les régions sont des lieux de maximisation des opportunités d’affaires, mais aussi d’apprentissage et d’innovation. En effet une zone industrielle concentrée offre une circulation de l’information facilitée, une coproduction de connaissances mais aussi des externalités d’infrastructures, de savoir-faire et de technologie.
 
@@ -40,7 +38,7 @@ L’objectif de ces territoires est la mise en contact de l’ « upperground »
 
 Si les effets externes positifs peuvent être recherchés en matière d’innovation et d’apprentissage, les entreprises peuvent également choisir leur localisation pour profiter d’une concurrence qualitative.
 
-##Les bénéfices d’une concurrence qualitative
+###Les bénéfices d’une concurrence qualitative
 
 Par concurrence qualitative, on entend ici une concurrence qui incite les entreprises à innover, à produire des biens de qualité, et à faire face à une concurrence féroce qui les fait progresser.
 
@@ -52,22 +50,13 @@ La demande locale revêt également une grande importance. L’exigence des cons
 
 Au final, on assiste à une stimulation mutuelle. C'est-à-dire que des groupes d’industries interdépendantes peuvent faire leur apparition dans certaines zones, et on rentre dans ce que l’on appelle la coopétition, c'est-à-dire que les entreprises sont rivales mais également interdépendantes. Elles sont rivales pour ce qui est de s’attribuer le revenu des consommateurs, mais interdépendante dans leurs échanges d’information et de savoir. C’est en cela que le territoire montréalais joue un rôle important de facilitateur des échanges (formels et informels) de produits et services mais surtout d’idées et de connaissances,  donc d'innovation.
 
-##Bibliographie
-
-Bartlett, C., & Ghoshal, S. (1989). Managing across Borders : the Transnational Solution.
-
-Brandenburger, A., & Nalebuff, B. (1996). La Co-Opétition.
-
-Florida, R. (1995). Toward the learning region.
-
-Fourcade, C. (1993). Gouvernement territorial et district industriel : l'exemple de Montpellier.
-
-Hamel. (1999). Bringing Silicon Valley Inside.
-
-Johnson, G., Whittington, R., Scholes, K., & Frery, F. (2011). Stratégique. Pearson.
-
-Porter, M. (1993). L'Avantage Concurrentiel des Nations.
-
-Marshall, A.(1890). Principles of Economics
-
-Jacobs, J (1969). The Economy of Cities
+####Bibliographie
+- Bartlett, C., & Ghoshal, S. (1989). Managing across Borders : the Transnational Solution.
+- Brandenburger, A., & Nalebuff, B. (1996). La Co-Opétition.
+- Florida, R. (1995). Toward the learning region.
+- Fourcade, C. (1993). Gouvernement territorial et district industriel : l'exemple de Montpellier.
+- Hamel. (1999). Bringing Silicon Valley Inside.
+- Johnson, G., Whittington, R., Scholes, K., & Frery, F. (2011). Stratégique. Pearson.
+- Porter, M. (1993). L'Avantage Concurrentiel des Nations.
+- Marshall, A.(1890). Principles of Economics
+- Jacobs, J (1969). The Economy of Cities

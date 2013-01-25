@@ -2,7 +2,7 @@
 layout: post
 tags : [innovation, approches]
 category: Articles
-title: "Approches descendante et ascendante"
+title: "Processus d’innovation structurée descendante et communautaire ascendante"
 authors:
  - {name : "Matthieu Gendreau"}
  - {name : "Mathieu Cordier"}
@@ -10,15 +10,13 @@ authors:
 ---
 {% include JB/setup %}
 
-#Introduction
-
 Pour innover en entreprise, deux démarches sont a priori possibles : une approche descendante, dite « top-down », où l’on part du concept de l’ensemble pour le décomposer en éléments plus détaillés et une approche ascendante, dite « bottom-up », où l’on considère l’échelon le plus bas, des éléments ou connaissances que l’on va agréger progressivement en opérant une synthèse pour aboutir à un produit ou un procédé final.
 
 Traditionnellement, les entreprises techniques très hiérarchisées ont tendance à favoriser l’approche descendante avec une direction forte qui va imposer sa vision des produits à l’entreprise alors que les plus petites entreprises plus créatives vont privilégier l’approche ascendante plus collaborative. Ces schémas, plutôt caricaturaux sont remis en cause par la nécessité pour l’ensemble des entreprises de pratiquer l’innovation intensive. Nos visites dans des entreprises innovantes québécoises ont bien montré que ces modèles ne sont pas figés et que c’est de la responsabilité de chaque entreprise de trouver le modèle qui lui correspond en trouvant ses propres méthodes d’innovation, descendante, ascendante ou un mélange bien dosé.
 
 Le contenu de nos visites nous incite à distinguer les démarches descendantes et ascendantes dans la conception de nouveaux produits et dans la mise au point de procédé. Ces éléments répondent à des objectifs stratégiques et dépendent de moyens opérationnels légèrement différents.
 
-#Innovation de produits
+###Innovation de produits
 
 L’approche descendante nous a bien été illustrée par la conférence de C. Midler que nous avons eu à HEC Montréal à propos de la voiture Logan de Renault. Le PDG du groupe, Louis Schweitzer, demande à ses équipes de créer : « la voiture à 5 000 € ». À partir de ce simple concept, venant du plus haut niveau hiérarchique, Renault réussit son pari et fait de la commercialisation de la Logan un vrai succès. Néanmoins la stratégie d’une entreprise ne peut se limiter à un succès. Il n’est plus possible aujourd’hui de capitaliser sur un produit unique et les entreprises sont condamnées à se renouveler et innover en permanence dans un environnement souvent très compétitif. 
 
@@ -28,7 +26,7 @@ De même, chez Hydro-Québec s’est posé le problème de capitalisation des co
 
 Au sein d’industries plus créatives comme Ubisoft ou le Cirque du Soleil, les problématiques sont différentes car les idées sont présentes à tous les échelons. Le défi est plus de les structurer que d’en récolter un maximum. Ce sont dans les deux cas des entreprises ayant beaucoup grandi avec leur succès respectif et qui ont dû passer du statut de petite entreprise innovante à celui de groupe multinational. Ce changement s’est accompagné d’une innovation de produits (des jeux et des spectacles) plutôt descendante avec des choix de conception réalisés très en amont. Pour le Cirque du Soleil, une petite équipe hétérogène décide de la thématique d’un spectacle avant d’élargir progressivement l’équipe en fonction du programme de numéros. Ce changement de structure s’accompagne d’un risque de perte de l’esprit créatif. Mais à partir d’une taille critique l’innovation ascendante non contrôlée devient trop éparse et non exploitable. Pour pallier à ce risque Ubisoft introduit une culture d’entreprise forte centrée autour d’une devise : « entertain and enrich players'life » et de six piliers communs. Ainsi à l’aide d’une innovation produit plus descendante, ces deux entreprises ont réussi à dépasser leur statut de petites entreprises de divertissement pour devenir deux acteurs mondiaux en pleine expansion. 
 
-#Innovation de procédé
+###Innovation de procédé
 
 Quelle que soit les industries, tout produit repose sur des procédés de conception, production et commercialisation. En parallèle des innovations produits évoquées précédemment, les entreprises sont contraintes à l’optimisation de leurs procédés tant en termes de rentabilité, de traçabilité que de sécurité. 
 
@@ -40,6 +38,6 @@ L’exemple du Kaizen révèle les pistes de solution facilitant la mise en plac
 
 Les conditions d’inscription d’une politique descendante dans une entreprise sont le message de conviction envoyé par la direction, et aussi l’adéquation de l’approche descendante avec l’identité d’entreprise et aux fonctionnements de tous les niveaux opérationnels. Ce dernier point doit être pris en compte dès le lancement de ces initiatives en impliquant les opérationnels dans le processus de conception. Ainsi, la mise au point des processus de gestion de projet du Cirque du Soleil, de gestion des connaissances chez Bombardier, ou d’idéation contrôlée chez Hydro Québec s’est faite en concertation avec les divers niveaux d’acteurs et parties prenantes. Cela assure une meilleure définition des innovations de procédé, qui ne sont pas que l’imposition d’une norme de fonctionnement à un contexte pourtant spécifique. Cela permet aussi une plus grande prise de conscience de l’existence et de l’utilité de cette mesure, et une meilleure implication puisque les utilisateurs auront participé à sa conception.
 
-#Conclusion
+###Conclusion
 
 Les approches descendante et ascendante ont donc toutes deux leur pertinence. La structure descendante donne efficacement l’impulsion de lancement d’un projet défini comme stratégique. Elle fournit aussi le cadre structurel permissif et catalyseur des initiatives ascendantes, qui sont source de créativité et d’innovations incrémentales. L’idée est donc d’installer une culture de compromis pour permettre le dialogue entre ces deux logiques. Le management doit donc avoir assez de sensibilité pour être ferme mais rester à l’écoute.
