@@ -3,6 +3,9 @@ layout: post
 tags : [innovation, performance]
 category: Articles
 title: "Innovation et performance des entreprises"
+authors:
+ - {name : "Claire Dufetrelle"}
+ - {name : "Claire Garo"}
 ---
 {% include JB/setup %}
 
