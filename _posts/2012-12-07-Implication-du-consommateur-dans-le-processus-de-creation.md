@@ -3,6 +3,10 @@ layout: post
 tags : [consommateur, creation]
 category: Articles
 title: "L'implication du consommateur dans le processus de création : les méthodes d'exploration des besoins et de la valeur"
+authors:
+ - {name : "Mathieu De Herzer"}
+ - {name : "Caroline Le Lann"}
+ - {name : "Fatima Saidani"}
 ---
 {% include JB/setup %}
 
