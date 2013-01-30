@@ -20,6 +20,8 @@ Par ailleurs, nous remercions les entreprises qui nous ont ouvert leurs portes :
 ##Le master PIC
 Le Master PIC, créé en 2002, s'appuie sur les compétences anciennes et reconnues du Centre de Recherche en Gestion de l'Ecole polytechnique sur l'axe « stratégies d'innovation projet et systèmes de conception ». Dans la décennie 2000, plusieurs enseignements ont été développés, au sein du département Humanités et Sciences Sociales, pour compléter l'offre de formation sur ce thème clé de la compétence des ingénieurs : management de projet, stratégies d’innovation et organisation des systèmes de conception, marketing stratégique, design...
 
+[Site du master PIC](http://www.masterpic.fr/)
+
 ##Les étudiants du master PIC 2012/2013
 <ul class="inline">
     {% for profile in site.profiles %}
